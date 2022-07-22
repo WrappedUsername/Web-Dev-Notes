@@ -23,3 +23,15 @@ somewhere in the middle, the string will stop early and throw an error.
 const myVariable = 'backslash before, let\'s use "quotation marks" inside a string.';
 /// @notice The use of single quotation marks allows the proper use of double quotation marks inside the string.
 const myVariable = '<a href="http://www.example.com" target="_blank">Link</a>';
+```
+## Escape sequences 
+| Command | Description |
+| --- | --- |
+|  \\' | Single Quotation Mark |
+| \\" | Double Quotation Mark |
+| \\\ | Backslash |
+| \\n | New Line |
+| \\r | Carriage Return |
+| \\t | Tab |
+| \\b | Word Boundry |
+| \\f | Form Feed |
