@@ -1,5 +1,4 @@
-## Collection of notes from my self taught developer journey.
-### Compound assignments += -= *= /= e.g. JavaScript, Solidity etc.
+## Compound assignments += -= *= /= e.g. JavaScript, Solidity etc.
 ```JavaScript
 /// @notice augmented addition
 const myVariable += 2;
