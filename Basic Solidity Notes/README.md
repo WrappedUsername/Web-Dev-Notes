@@ -24,7 +24,7 @@
 	•	private
 ### Within a grouping, place the view and pure functions last.
 ## [NatSpec Format](https://docs.soliditylang.org/en/v0.8.13/natspec-format.html#)
-	•	For Solidity you may choose /// for single or multi-line comments, or /** and ending with */.
+	•	For Solidity you may choose /// for single line comments, or for multi-line comments /** ending with */.
 	
 	•	@title Should describe the contract/interface i.e. 
 	•	/// @title A simple NFT project
