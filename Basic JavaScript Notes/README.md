@@ -35,3 +35,13 @@ const myVariable = '<a href="http://www.example.com" target="_blank">Link</a>';
 | \\t | Tab |
 | \\b | Word Boundry |
 | \\f | Form Feed |
+## Concatenating strings e.g. JavaScript.
+```JavaScript 
+/** 
+@notice Use the += operator to concatenate a string onto the end of an existing string variable. 
+This can be very helpful to break a long string over several lines. 
+*/
+/// @notice Concatenation does not add spaces between concatenated strings, so you'll need to add them yourself.
+const myVariable = "This is the first sentence. "; 
+myVariable += "This is the second sentence.";
+```
