@@ -47,7 +47,7 @@ myVariable += "This is the second sentence.";
 ```
 ## Constructing strings with variables.
 ```JavaScript
-/** @notice By using the concatenation operator (+), you can insert one or more 
+/** @notice By using the concatenation operator + you can insert one or more 
 variables into a string you're building.
 */
 const myName = "WrappedUsername";
@@ -55,7 +55,7 @@ let myVariable = "Hellos my name is " + myName + ", how are you?";
 ```
 ## Appending variables to strings.
 ```JavaScript
-/// @notice Appending variables to a string using the plus equals (+=) operator.
+/// @notice Appending variables to a string using the plus equals += operator.
 const someAdjective = "interesting!";
 let myVariable = "Learning to code is ";
 myVariable += someAdjective;
