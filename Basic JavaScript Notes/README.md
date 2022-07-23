@@ -45,3 +45,12 @@ This can be very helpful to break a long string over several lines.
 const myVariable = "This is the first sentence. "; 
 myVariable += "This is the second sentence.";
 ```
+## Constructing strings with variables e.g. JavaScript.
+```JavaScript
+/** @notice By using the concatenation operator (+), you can insert one or more 
+variables into a string you're building.
+*/
+const myName = "WrappedUsername";
+const myVariable = "Hellos my name is " + myName + ", how are you?";
+```
+
