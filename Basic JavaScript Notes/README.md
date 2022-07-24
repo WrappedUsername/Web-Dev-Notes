@@ -35,6 +35,15 @@ const myVariable = '<a href="http://www.example.com" target="_blank">Link</a>';
 | \\t | Tab |
 | \\b | Word Boundry |
 | \\f | Form Feed |
+```JavaScript
+const myString = "FirstLine\n\t\\SecondLine\nThirdLine";
+console.log(myString); 
+/** @notice output:
+FirstLine
+	\SecondLine
+ThirdLine
+*/
+```
 ## Concatenating strings.
 ```JavaScript 
 /** 
