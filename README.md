@@ -1,5 +1,5 @@
 # Web-Dev-Notes
-## Collection of notes from my self taught developer journey, examples below.
+## Collection of notes from my self taught developer journey, e.g. below.
 ### Find remainder operator %
 ```JavaScript
 /** 
