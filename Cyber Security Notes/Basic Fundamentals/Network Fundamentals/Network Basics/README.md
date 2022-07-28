@@ -1,4 +1,4 @@
-## The OSI and TCP/IP model.
+## Network basics - The OSI and TCP/IP model.
 The OSI (Open Systems Interconnection) Model is a standardised model which is used to demonstrate the theory behind computer networking.
 In practice, it's actually the more compact TCP/IP model that real-world networking is based off of.
 | OSI Model | TCP/IP Model |
@@ -73,3 +73,64 @@ It's the job of the physical layer to convert the binary data of the transmissio
 *Note: Some recent sources split the TCP/IP model into five layers, breaking the Network Interface layer into Data Link and Physical layers (as with the OSI model). This is accepted and well-known, however, it is not officially defined (unlike the original four layers which are defined in RFC1122).* 
 
 *It's up to you which version you use, both are generally considered valid.*
+
+## Encapsulation
+
+As the data is passed down each layer of the model, more information containing details specific to the layer in question is added on to the start of the transmission. As an example, the header added by the Network Layer would include things like the source and destination IP addresses, and the header added by the Transport Layer would include (amongst other things) information specific to the protocol being used. The data link layer also adds a piece on at the end of the transmission, which is used to verify that the data has not been corrupted on transmission; this also has the added bonus of increased security, as the data can't be intercepted and tampered with without breaking the trailer. This whole process is referred to as encapsulation; the process by which data can be sent from one computer to another.
+
+### Stage 1 - Application layer (L7) header is added.
+ 
+| L7 Header | Data |
+| :---: | :---: |
+
+### Stage 2 - Presentation layer (L6) header is added.
+
+| L6 Header | Data |
+| :---: | :---: |
+
+### Stage 3 - Session layer (L5) header is added.
+ 
+| L5 Header | Data |
+| :---: | :---: |
+
+### Stage 4 - Transport layer (L4) header is added.
+ 
+| L4 Header | Segments/Datagram |
+| :---: | :---: |
+
+### Stage 5 - Network layer (L3) header is added.
+ 
+| L3 Header | Packets |
+| :---: | :---: |
+
+### Stage 6 - Data Link layer (L2) header and trailer is added.
+ 
+| L2 Header | Frames | L2 Trailer |
+| :---: | :---: | :---: |
+
+### Stage 7 - Physical layer (L1) header is added.
+ 
+| Data stream (bits) |
+| :---: |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
