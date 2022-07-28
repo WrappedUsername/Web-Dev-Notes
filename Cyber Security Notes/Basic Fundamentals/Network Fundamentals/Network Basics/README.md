@@ -119,12 +119,22 @@ When the message is received by the second computer, it reverses the process, st
 
 The processes of encapsulation and de-encapsulation are very important, not least because of their practical use, but also because they give us a standardised method for sending data. This means that all transmissions will consistently follow the same methodology, allowing any network enabled device to send a request to any other reachable device and be sure that it will be understood, regardless of whether they are from the same manufacturer; use the same operating system, or any other factors.
 
+The processes of encapsulation and de-encapsulation work in exactly the same way with the TCP/IP model as they do with the OSI model. At each layer of the TCP/IP model a header is added during encapsulation, and removed during de-encapsulation.
 
+TCP/IP is a set of rules that define how an action is to be carried out. TCP/IP takes its name from the two most important of these, the Transmission Control Protocol (which we touched upon earlier in the OSI model) that controls the flow of data between two endpoints, and the Internet Protocol, which controls how packets are addressed and sent. There are many more protocols that make up the TCP/IP suite.
 
+TCP is a connection-based protocol. In other words, before you send any data via TCP, you must first form a stable connection between the two computers. The process of forming this connection is called the three-way handshake.
 
+When you attempt to make a connection, your computer first sends a special request to the remote server indicating that it wants to initialise a connection. This request contains something called a SYN (short for synchronise) bit, which essentially makes first contact in starting the connection process. The server will then respond with a packet containing the SYN bit, as well as another "acknowledgement" bit, called ACK. Finally, your computer will send a packet that contains the ACK bit by itself, confirming that the connection has been setup successfully. With the three-way handshake successfully completed, data can be reliably transmitted between the two computers. Any data that is lost or corrupted on transmission is re-sent, thus leading to a connection which appears to be lossless.
 
-
-
+```mermaid
+classDiagram
+client --> server : step 1, SYN
+server --> client : step 2, SYN/ACK
+client --> server : step 3, ACK
+server
+client 
+```
 
 
 
