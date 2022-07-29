@@ -55,7 +55,10 @@ round-trip min/avg/max/stddev = 68.594/72.701/80.067/4.577 ms
 MacBook-Pro-2% 
 ```
 
-### -C      
-Prohibit the socket from using the cellular network interface. This option is an Apple addition.
+### -f 
 
+*Flood ping.*  
 
+Outputs packets as fast as they come back or one hundred times per second, whichever is more. For every ECHO_REQUEST sent a period "." is printed, while for every ECHO_REPLY received a backspace is printed. This provides a rapid display of how many packets are being dropped.  Only the super-user may use this option. 
+
+*This can be very hard on a network and should be used with caution.*
