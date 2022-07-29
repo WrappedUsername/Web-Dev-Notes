@@ -19,9 +19,23 @@ Bracket notation is a way to get a character at a specific index within a string
 Most modern programming languages, like JavaScript, don't start counting at 1 like humans do. They start at 0. This is referred to as Zero-based indexing.
 
 For example, the character at index 0 in the word Charles is C. So if const firstName = "Charles", you can get the value of the first letter of the string by using firstName[0]
-## Example given:
+
+for example:
 ```JavaScript
 const firstName = "Charles";
 const firstLetter = firstName[0];
 ```
 firstLetter would have a value of the string C.
+
+## Nth - Using bracket notation to get the Nth character in a string.
+
+Nth is a naming convention that describes the position of a character in a string. Nth can represent any position of a character in a string.
+
+For example:
+```JavaScript
+const firstName = "Ada";
+const secondLetterOfFirstName = firstName[1];
+```
+secondLetterOfFirstName would have a value of the string d.
+
+
