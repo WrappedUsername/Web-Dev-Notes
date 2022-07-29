@@ -25,7 +25,7 @@ for example:
 const firstName = "Charles";
 const firstLetter = firstName[0];
 ```
-firstLetter would have a value of the string C.
+firstLetter would have a Nth value of the string C.
 
 ## Nth - Using bracket notation to get the Nth character in a string.
 
@@ -36,7 +36,7 @@ For example:
 const firstName = "Ada";
 const secondLetterOfFirstName = firstName[1];
 ```
-secondLetterOfFirstName would have a value of the string d.
+secondLetterOfFirstName would have a Nth value of the string d.
 
 In order to get the last letter of a string, you can subtract one from the string's length.
 
@@ -45,7 +45,7 @@ For example:
 const firstName = "Ada";
 const lastLetter = firstName[firstName.length - 1];
 ```
-lastLetter would have a value of the string a.
+lastLetter would have a Nth value of the string a.
 
 Use the same principle to retrieve the last character in a string to retrieve the Nth-to-last character.
 
@@ -54,7 +54,7 @@ For example:
 const firstName = "Augusta";
 const thirdToLastLetter = firstName[firstName.length - 3];
 ```
-thirdToLastLetter would have a value of the string s.
+thirdToLastLetter would have a Nth value of the string s.
 
 
 
