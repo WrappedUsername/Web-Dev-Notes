@@ -87,13 +87,13 @@ So the address 2001:0db8:3c4d:0015:0000:0000:1a2f:1a2b can be abbreviated as 200
 
 You can use the two colon notation to replace any contiguous fields of all zeros in the IPv6 address. For example, the IPv6 address 2001:0db8:3c4d:0015:0000:d234::3eee:0000 can be collapsed into 2001:db8:3c4d:15:0:d234:3eee::
 
-## MAC Address
+## MAC Address e.g. a4:c3:f0:85:ac:2d 
 
 A Media Access Control address (MAC address) is a hardware identifier that uniquely identifies each device on a network. Primarily, the manufacturer assigns it. They are often found on a device’s network interface controller (NIC) card. A MAC address can also be referred to as a burned-in address, Ethernet hardware address, hardware address, or physical address.
 
-The MAC address is a twelve-character hexadecimal number split into 8 bit fields and separated by a colon. 
+The MAC address is a 48 bit hexadecimal number, split into 8 bit fields, separated by a colon. 
 
-For example, a4:c3:f0:85:ac:2d. 
+For example: a4:c3:f0:85:ac:2d 
 
 The first six characters represent the company that made the network interface, and the last six is a unique number.
 
