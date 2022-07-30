@@ -6,8 +6,8 @@ These are:
 - An IP Address
 - A Media Access Control (MAC) Address, similar to a serial number.
 
-## IP Address e.g. 192.168.1.1.
-An IP address is a set of numbers that are divided into four octets. 
+## IPv4 Address e.g. 192.168.1.1.
+An IPv4 address is a set of numbers that are divided into four octets. 
 The value of each octet will be the IP address of the device on the network.
 
 This number is calculated through a technique known as IP addressing & subnetting.
