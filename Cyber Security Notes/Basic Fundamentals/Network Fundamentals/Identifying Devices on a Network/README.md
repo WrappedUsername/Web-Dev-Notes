@@ -3,7 +3,7 @@ Devices have, two means of identification, with one being permeable.
 
 These are:
 
-- An IP Address
+- An IP Address - IPv4 and IPv6
 - A Media Access Control (MAC) Address, similar to a serial number.
 
 ## IPv4 Address e.g. 192.168.1.1.
