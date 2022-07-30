@@ -2,7 +2,7 @@
 The ping utility uses the ICMP (Internet Control Message Protocol) protocol's mandatory ECHO_REQUEST datagram to elicit an ICMP ECHO_RESPONSE from a host or gateway.  
 ECHO_REQUEST datagrams (pings) have an IP and ICMP header, followed by a struct timeval and then an arbitrary number 
 of pad bytes used to fill out the packet.
-## Ping commands - man ping for help menu.
+## Ping commands - (man ping) command for help menu.
 
 ### -v      
 Verbose output.  ICMP packets other than ECHO_RESPONSE that are received are listed.
