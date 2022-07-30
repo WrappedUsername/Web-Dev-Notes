@@ -57,7 +57,11 @@ Example:
 
 This example shows all 128 bits of an IPv6 address. The first 48 bits, 2001:0db8:3c4d, contain the site prefix, representing the public topology. The next 16 bits, 0015, contain the subnet ID, representing the private topology for the site. The lower order, rightmost 64 bits, 0000:0000:1a2f:1a2b, contain the interface ID.
 
-Base 16 hexadecimal number system - IPv6 has eight, 16 bit fields, 128 bits in total, represented with a hexidecimal number.
+Base 16 hexadecimal number system - 
+
+IPv6 address has eight, 16 bit fields, 128 bits in total, represented with a hexidecimal number.
+
+MAC address has six, 8 bit fields, 48 bits in total, represented with a hexidecimal number.
 | 4 bit Binary Sequence | Hex Representation |
 | --- | --- |
 | 0000 | 0 |
@@ -91,7 +95,7 @@ You can use the two colon notation to replace any contiguous fields of all zeros
 
 A Media Access Control address (MAC address) is a hardware identifier that uniquely identifies each device on a network. Primarily, the manufacturer assigns it. They are often found on a device’s network interface controller (NIC) card. A MAC address can also be referred to as a burned-in address, Ethernet hardware address, hardware address, or physical address.
 
-The MAC address is a 48 bit hexadecimal number, split into 8 bit fields, separated by a colon. 
+The MAC address is a 48 bit hexadecimal number, split into six 8 bit fields, separated by a colon. 
 
 For example: a4:c3:f0:85:ac:2d 
 
