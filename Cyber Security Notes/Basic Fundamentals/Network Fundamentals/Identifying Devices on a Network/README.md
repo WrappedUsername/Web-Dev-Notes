@@ -76,3 +76,31 @@ Base 16 hexadecimal number system - IPv6 has eight, 16 bit fields, 128 bits in t
 | 1101 | D |
 | 1110 | E |
 | 1111 | F |
+
+## Abbreviating IPv6 Addresses
+
+Most IPv6 addresses do not occupy all of their possible 128 bits. This condition results in fields that are padded with zeros or contain only zeros.
+
+The IPv6 addressing architecture allows you use the two-colon (::) notation to represent contiguous 16-bit fields of zeros. For example, you might abbreviate the IPv6 address in the e.g. by replacing the two contiguous fields of zeros in the interface ID with two colons. The resulting address is 2001:0db8:3c4d:0015::1a2f:1a2b. Other fields of zeros can be represented as a single 0. You can also omit any leading zeros in a field, such as changing 0db8 to db8.
+
+So the address 2001:0db8:3c4d:0015:0000:0000:1a2f:1a2b can be abbreviated as 2001:db8:3c4d:15::1a2f:1a2b.
+
+You can use the two colon notation to replace any contiguous fields of all zeros in the IPv6 address. For example, the IPv6 address 2001:0db8:3c4d:0015:0000:d234::3eee:0000 can be collapsed into 2001:db8:3c4d:15:0:d234:3eee::
+
+## MAC Address
+
+A Media Access Control address (MAC address) is a hardware identifier that uniquely identifies each device on a network. Primarily, the manufacturer assigns it. They are often found on a device’s network interface controller (NIC) card. A MAC address can also be referred to as a burned-in address, Ethernet hardware address, hardware address, or physical address.
+
+The MAC address is a twelve-character hexadecimal number split into 8 bit fields and separated by a colon. 
+
+For example, a4:c3:f0:85:ac:2d. 
+
+The first six characters represent the company that made the network interface, and the last six is a unique number.
+
+Because they are assigned to NIC (network interface controller) or other hardware, MAC addresses never change on their own, but many network interfaces support MAC address changes.
+
+[How to change MAC address](https://www.ibm.com/docs/en/mq-appliance/9.2?topic=commands-mac-address)
+
+In OSI terminology, the MAC sublayer is considered to be sublayers of the OSI Data Link layer (layer 2). This allows MAC addressing to support other kinds of networks besides TCP/IP.
+
+IP networks manage the conversion between IP and MAC addresses using Address Resolution Protocol (ARP). The Dynamic Host Configuration Protocol (DHCP) relies on ARP to manage the unique assignment of IP addresses to devices.
