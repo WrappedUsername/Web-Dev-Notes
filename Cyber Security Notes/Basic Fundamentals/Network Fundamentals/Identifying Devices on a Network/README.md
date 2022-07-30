@@ -101,6 +101,6 @@ Because they are assigned to NIC (network interface controller) or other hardwar
 
 [How to change MAC address](https://www.ibm.com/docs/en/mq-appliance/9.2?topic=commands-mac-address)
 
-In OSI terminology, the MAC sublayer is considered to be sublayers of the OSI Data Link layer (layer 2). This allows MAC addressing to support other kinds of networks besides TCP/IP.
+In OSI terminology, the MAC sublayer is considered to be a sublayer of the OSI Data Link layer (layer 2). This allows MAC addressing to support other kinds of networks besides TCP/IP.
 
 IP networks manage the conversion between IP and MAC addresses using Address Resolution Protocol (ARP). The Dynamic Host Configuration Protocol (DHCP) relies on ARP to manage the unique assignment of IP addresses to devices.
