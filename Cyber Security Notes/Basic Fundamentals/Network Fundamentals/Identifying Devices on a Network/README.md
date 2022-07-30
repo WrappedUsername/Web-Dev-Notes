@@ -44,6 +44,26 @@ An IPv6 address is 128 bits in length and consists of eight, 16-bit fields, with
 
 ![image](https://user-images.githubusercontent.com/104662990/181933810-f2310425-b4eb-4392-844f-6088f106ccf0.png)
 
+Base 16 Hexadecimal system - 1 byte = (8 bits) - 32 bytes = (256 bits)
+| 4 bit Binary Sequence | Hex Representation |
+| --- | --- |
+| 0000 | 0 |
+| 0001 | 1 |
+| 0010 | 2 |
+| 0011 | 3 |
+| 0100 | 4 |
+| 0101 | 5 |
+| 0110 | 6 |
+| 0111 | 7 |
+| 1000 | 8 |
+| 1001 | 9 |
+| 1010 | A |
+| 1011 | B |
+| 1100 | C |
+| 1101 | D |
+| 1110 | E |
+| 1111 | F |
+
 The leftmost three fields (48 bits) contain the site prefix. The prefix describes the public topology that is usually allocated to your site by an ISP or Regional Internet Registry (RIR).
 
 The next field is the 16-bit subnet ID, which you (or another administrator) allocate for your site. The subnet ID describes the private topology, also known as the site topology, because it is internal to your site.
