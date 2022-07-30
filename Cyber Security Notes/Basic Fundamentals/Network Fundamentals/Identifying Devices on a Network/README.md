@@ -57,7 +57,7 @@ Example:
 
 This example shows all 128 bits of an IPv6 address. The first 48 bits, 2001:0db8:3c4d, contain the site prefix, representing the public topology. The next 16 bits, 0015, contain the subnet ID, representing the private topology for the site. The lower order, rightmost 64 bits, 0000:0000:1a2f:1a2b, contain the interface ID.
 
-Base 16 Hexadecimal system - IPv6 has eight, 16 bit fields, 128 bits in total.
+Base 16 hexadecimal number system - IPv6 has eight, 16 bit fields, 128 bits in total.
 | 4 bit Binary Sequence | Hex Representation |
 | --- | --- |
 | 0000 | 0 |
