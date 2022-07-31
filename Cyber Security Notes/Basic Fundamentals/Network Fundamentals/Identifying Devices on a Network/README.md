@@ -108,3 +108,15 @@ Because they are assigned to NIC (network interface controller) or other hardwar
 In OSI terminology, the MAC sublayer is considered to be a sublayer of the OSI Data Link layer (layer 2). This allows MAC addressing to support other kinds of networks besides TCP/IP.
 
 IP networks manage the conversion between IP and MAC addresses using Address Resolution Protocol (ARP). The Dynamic Host Configuration Protocol (DHCP) relies on ARP to manage the unique assignment of IP addresses to devices.
+
+## 64 bit MAC Address e.g. 00:25:96:12:34:56
+
+Traditional MAC addresses are 48 bits in length, a few types of networks require 64-bit addresses instead. TCP/IP networks based on IPv6 implement a different approach to communicating MAC addresses compared to mainstream IPv4. 
+
+Instead of 64-bit hardware addresses, IPv6 automatically translates a 48-bit MAC address to a 64-bit address by inserting a fixed (hardcoded) 16-bit value FFFE between the vendor prefix and the device identifier. IPv6 calls these numbers identifiers to distinguish them from true 64-bit hardware addresses.
+
+For example, a 48-bit MAC address of 00:25:96:12:34:56 appears on an IPv6 network in either of these two forms:
+
+- 00:25:96:FF:FE:12:34:56
+- 0025:96FF:FE12:3456
+
