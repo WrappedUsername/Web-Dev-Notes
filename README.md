@@ -1,4 +1,4 @@
-# Web-Dev-Notes
+# [Web-Dev-Notes](https://github.com/WrappedUsername/Web-Dev-Notes)
 ## Collection of notes from my self taught developer journey, e.g. below.
 ### Find remainder operator %
 ```JavaScript
