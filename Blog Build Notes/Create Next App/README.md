@@ -22,3 +22,28 @@ I also added some more information to the package.json file.
   "author": "wrappedusername",
   "version": "0.1.0",
 ```
+## yarn dev
+To run the app I use the yarn dev command. The new website is visible on localhost:3000. 
+```Shell
+yarn dev
+```
+## Working on index.tsx inside the pages folder
+The pages folder has one of the most important files in the app, the index.tsx file. I started working on this file removing
+most of the boilerplate code. I created my own favicon in the <link, and changed the <title to Journey Blog, I left the outer <div and <Head.
+
+The outer <div className was changed to "container mx-auto px-10 mb-8 gradient-bg-container", and I changed const Home = () =>
+to export default function Home ().
+```JavaScript
+import Head from 'next/head'
+///@notice Changed const Home = () =>
+export default function Home () {
+  return (
+    <div className="container mx-auto px-10 mb-8 gradient-bg-container">
+      <Head>
+        <title>Journey Blog</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+    </div>
+  )
+}
+```
