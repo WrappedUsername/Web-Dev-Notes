@@ -48,7 +48,7 @@ export default function Home () {
 }
 ```
 
-The next div will be for looping through our blog posts.
+The next div will be for looping through the blog posts.
               
 ```JavaScript
 export default function Home () {
@@ -65,5 +65,24 @@ export default function Home () {
   )
 }               
 ```
-              
-              
+I created a demonstration post, before fetching the data from graphql. 
+
+```JavaScript
+const posts = [
+   { title: 'Wed-Dev-Notes', excerpt: 'Collection of notes from self taught developer journey." }
+];
+
+export default function Home () {
+  return (
+    <div className="container mx-auto px-10 mb-8 gradient-bg-container">
+      <Head>
+        <title>Journey Blog</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+    </div>
+      <div className="grid grid-cols-1 lg:grid-cols-12 gap-12"> 
+  
+      </div>
+  )
+} 
+```
