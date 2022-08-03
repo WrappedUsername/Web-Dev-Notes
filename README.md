@@ -1,4 +1,6 @@
 # [Web-Dev-Notes](https://github.com/WrappedUsername/Web-Dev-Notes)
+Folders with notes and README files will become blog posts in my new blog website I am building:
+[Journey Blog](https://github.com/WrappedUsername/journey-blog)
 ## Collection of notes from my self taught developer journey, e.g. below.
 ### Find remainder operator %
 ```JavaScript
