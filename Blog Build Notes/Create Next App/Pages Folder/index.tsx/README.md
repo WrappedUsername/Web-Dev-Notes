@@ -1,4 +1,7 @@
-## Working on index.tsx inside the pages folder
+# index.tsx file
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=indextsx&label=Repository%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+
+## Work In Progress on index.tsx inside the pages folder
 The pages folder has one of the most important files in the app, the index.tsx file. I started working on this file removing
 most of the boilerplate code. I created my own favicon in the link, and changed the title to Journey Blog, I left the outer div and Head.
 
