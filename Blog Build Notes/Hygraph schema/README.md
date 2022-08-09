@@ -1,3 +1,6 @@
+# Hygraph schema
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hygraphschema&label=Repository%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+
 ## First step in blog build, create Hygraph (GraphCMS) schema.
 [Build hygraph schema](https://hygraph.com/)
 ## Models
