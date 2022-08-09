@@ -1,4 +1,6 @@
-## Solidity style guide
+# Solidity style guide
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SolidityStyleGuide&label=Repository%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+
 ## [Order of Layout](https://docs.soliditylang.org/en/v0.8.13/style-guide.html#order-of-layout)
 ### Layout contract elements in the following order:
 	1.	Pragma statements
