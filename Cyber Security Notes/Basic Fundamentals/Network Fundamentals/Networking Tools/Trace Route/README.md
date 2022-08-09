@@ -1,4 +1,6 @@
-## Networking tool - Trace Route
+# Networking tool - Trace Route
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TraceRoute&label=Repository%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+
 Traceroute can be used to map the path your request takes as it heads to the target machine.
 
 The internet is a large and complex aggregation of network hardware, connected together by gateways. Traceroute allows you to see each of these connections, it allows you to see every intermediate step between your computer and the resource that you requested.
