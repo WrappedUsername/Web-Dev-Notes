@@ -1,4 +1,6 @@
-## Create Next app with Typescript, and Tailwindcss
+# Create Next App with Typescript, and Tailwindcss
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CreateNextApp&label=Repository%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+
 I first created a folder with my blog project name, journey-blog, I dragged and dropped that folder into VS Code. 
 I like to use yarn, so inside a terminal window in VS Code I entered this command to initialize the project.
 
