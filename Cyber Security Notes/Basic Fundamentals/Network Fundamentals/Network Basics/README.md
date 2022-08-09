@@ -1,4 +1,6 @@
-## Network basics - The OSI and TCP/IP model.
+# Network basics - The OSI and TCP/IP model.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NetworkBasics&label=Repository%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+
 The OSI (Open Systems Interconnection) Model is a standardised model which is used to demonstrate the theory behind computer networking.
 In practice, it's actually the more compact TCP/IP model that real-world networking is based off of.
 | OSI Model | TCP/IP Model |
