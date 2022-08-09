@@ -1,3 +1,6 @@
+# Hygraph Content Dashboard
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ContentDashboard&label=Repository%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+
 ## Create entries
 Create data now in Hygraph dashboard so there is data to fetch when coding. 
 ## Author entry
