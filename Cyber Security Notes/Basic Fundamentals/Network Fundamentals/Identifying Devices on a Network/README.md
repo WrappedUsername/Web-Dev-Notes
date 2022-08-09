@@ -1,4 +1,6 @@
-## Identifying devices on a network.
+# Identifying devices on a network.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IdentifyingDevicesonaNetwork&label=Repository%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+
 Devices have, two means of identification, with one being permeable. 
 
 These are:
