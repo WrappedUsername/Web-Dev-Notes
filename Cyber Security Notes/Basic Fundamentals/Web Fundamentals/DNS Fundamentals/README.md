@@ -1,4 +1,4 @@
-## DNS (Domain Name System) 
+# DNS (Domain Name System) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DNSFundamentals&label=Repository%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
 
 Provides a simple way for us to communicate with devices on the internet without remembering complex numbers.
