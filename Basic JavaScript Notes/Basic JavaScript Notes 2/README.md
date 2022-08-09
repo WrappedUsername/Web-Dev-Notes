@@ -1,3 +1,6 @@
+# Basic JavaScript Notes 2
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BasicJavaScriptNotes2&label=Repository%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+
 ## Understanding String Immutability
 
 In JavaScript, string values are immutable, which means that they cannot be altered once created.
