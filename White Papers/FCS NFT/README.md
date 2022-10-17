@@ -43,7 +43,7 @@ graph TD;
 FCS_NFT_Staking-->FCS_ERC-20
 Special_Direct_FCS_NFT_Access_Pass
 LP_Providers-->FCS_ERC-20
-FCS_ERC-20-->Special_FCS_NFT_Access_Pass
+FCS_ERC-20-->Special_HODLers_FCS_NFT_Access_Pass
 FCS_ERC-20-->FCS_DAO_Governance_Token/Stable_Coin
 
 ```
@@ -52,7 +52,7 @@ FCS_ERC-20-->FCS_DAO_Governance_Token/Stable_Coin
 - Special Direct FCS NFT Access Pass
 - LP Providers rewards: FCS-ERC20 Utility Token
 - FCS ERC-20 Utility Token burned to purchase:
-  - Special FCS NFT Access Pass
+  - Special HODLers FCS NFT Access Pass
   - FCS DAO Governance Token/Stable Coin
   
 # 🚀 FCS Project Tokenomics & Distribution
@@ -69,6 +69,12 @@ FCS_ERC-20-->FCS_DAO_Governance_Token/Stable_Coin
 
 - Special Direct FCS NFT Access Pass
   - Gives direct access to that special event only 
+
+## 🎟 Special Direct FCS NFT Access Pass
+| Special Direct FCS NFT Access Pass | Event |
+| :--: | :--: |
+
+- Special HODLers
 
 # 🗺 FCS RoadMap
 - TODO
