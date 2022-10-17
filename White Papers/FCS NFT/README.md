@@ -36,7 +36,8 @@ The color of the background not only influences the composition of the art piece
 - Accent Layer One
 - Accent Layer Two
 
-# 🏦 FCS NFT Project Meta Economics
+# 🏦 FCS NFT Project Meta Economics: The Dual Purpose DAO Governance Token/Stable Coin
+The primary concept driving this project economy will be the use of the Project DAO Governance Token to provide stability, serving a dual purpose and providing exceptional value while doing so.
 ```mermaid
 graph TD;
 FCS_NFT_Staking-->FCS_ERC-20
