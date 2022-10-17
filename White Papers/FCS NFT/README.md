@@ -1,13 +1,17 @@
-# Foam Chunk Smudge NFT: White Paper - Work In Progress
+# Foam Chunk Smudge NFT: 📃 White Paper - 🚧 Work In Progress 🏗
 - 500 Abstract Art Pieces
 
-The digital art program I like to use has a digital "brush" I am fond of,
-and I have named this project after these digital brushes.
+The digital art program I like to use has a digital "brush" I am fond of, and I have named this project after these digital brushes.
+The very large image size of 3840 x 3840 that I decided to use has created a few small issues:
+- namely that the individual file size is enormous (issues with loading the large image), 
+- that also limited my ability to create a token supply more than 500,
+- because IPFS has a 25GB upload limit,
+
+but these issues with the large image size just goes to show that NFT's can have more utility and value beyond a digital art piece stored in a file.
+
+# 💎 Rarity and Traits
 
 - 5 seperate layers
-
-The color of the background not only influences the composition of the art piece,
-it is also a factor that determines the overall rarity of the NFT.
 
 ```mermaid
 graph TD;
@@ -17,9 +21,16 @@ smudgeLayerOne-->accentLayerOne
 smudgeLayerTwo-->accentLayerTwo
 
 ```
-The black background has only one instance out of 500, making that NFT the most rare.
 
-# FCS NFT Project Economics
+- Background
+
+The black background has only one instance out of 500, making that NFT the most rare.
+The color of the background not only influences the composition of the art piece, it is also a factor that determines the overall rarity of the NFT.
+
+- Smudge layers one and two
+- Accent Layer one and two
+
+# 🏦 FCS NFT Project Meta Economics
 ```mermaid
 graph TD;
 FCS_NFT_Staking-->FCS_ERC-20
@@ -32,3 +43,17 @@ FCS_ERC-20-->FCS_DAO_Governance_Token
 - FCS ERC-20 used to purchase
   - Special FCS NFT Access Pass
   - FCS DAO Governance Token
+  
+# 🚀 FCS Project Tokenomics & Distribution
+- TODO
+- TODO
+
+# 🗺 FCS RoadMap
+- TODO
+- TODO
+
+# 🤝 Meet the Team!
+- TODO
+
+# 🤝 Please Join our Community!
+- TODO
