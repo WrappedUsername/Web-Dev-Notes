@@ -55,8 +55,16 @@ FCS_ERC-20-->FCS_DAO_Governance_Token/Stable_Coin
   - Special HODLers FCS NFT Access Pass
   - FCS DAO Governance Token/Stable Coin
 
-## 🥩 & LP Rewards & FCS ERC-20 Token Distribution
-- FCS ERC-20 Staking Reward Utility Token is pegged to the FCS DAO GT/SC
+## 🥩 Foam Chunk Smudge NFT Staking
+- Stake your NFT!
+  - Recieve FCS ERC-20 Utility Token
+
+| Stake | Foam Chunk Smudge NFT | Foam Chunk Smudge Xpanded NFT |
+| :--: | :--: | :--: | 
+| Recieve | FCS ERC-20 Utility Token | FCS ERC-20 Utility Token |
+
+## 📈 FCS ERC-20 Utility Token Distribution, 🥩 & LP Rewards
+- FCS ERC-20 Utility Token is pegged to the FCS DAO GT/SC via rate of inflation
   - The rate of inflation will be relative to the supply of FCS DAO GT/SC
   - The burning of tokens to purchase FCS DAO GT/SC will act as a deflationary event
   - The burning of tokens to purchase Special FCS NFT Access Pass will act as a deflationary event
@@ -68,7 +76,7 @@ FCS_ERC-20-->FCS_DAO_Governance_Token/Stable_Coin
 | 80% | 10% | 5% | 2.5% | 2.5% |
 
 
-## 🎟 Special Direct FCS NFT Access Pass
+## 🎟 Special ➡️ Direct FCS NFT Access Pass
 - Special Direct FCS NFT Access Pass
   - Gives direct access to that special event only 
 
