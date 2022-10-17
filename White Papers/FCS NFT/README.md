@@ -49,15 +49,20 @@ FCS_ERC-20-->FCS_DAO_Governance_Token/Stable_Coin
 
 - FCS NFT Staking rewards: FCS ERC-20 Utility Token
 - Special Direct FCS NFT Access Pass
-- FCS ERC-20 Utility Token used to purchase:
+- LP Providers rewards: FCS-ERC20 Utility Token
+- FCS ERC-20 Utility Token burned to purchase:
   - Special FCS NFT Access Pass
   - FCS DAO Governance Token/Stable Coin
   
 # 🚀 FCS Project Tokenomics & Distribution
 - FCS ERC-20 Staking Reward Utility Token is pegged to the FCS DAO GT/SC
   - The rate of inflation will be relative to the supply of FCS DAO GT/SC
+  - The burning of tokens to purchase FCS DAO GT/SC will act as a deflationary event
+  - The burning of tokens to purchase Special FCS NFT Access Pass will act as a deflationary event
+  - Low supply of FCS DAO GT/SC will result in high inflation to encourage adoption and reward early investors
+  - High supply of FCS DAO GT/SC will result in low inflation to encourage a stable project economy
 ## 🥩 Rewards & FCS ERC-20 Token Distribution
-| Staking Rewards | DAO Treasury | Project Treasury | Project Charity Fund | Founder |
+| Staking Rewards & LP Providers Rewards | DAO Treasury | Project Treasury | Project Charity Fund | Founder |
 | :--: | :--: | :--: | :--: | :--: |
 | 80% | 10% | 5% | 2.5% | 2.5% |
 
