@@ -1,5 +1,6 @@
 # Foam Chunk Smudge NFT: 📃 White Paper - 🚧 Work In Progress 🏗
 - 500 Abstract Art Pieces
+- Deployed to layer 2 Polygon Mainnet
 
 <p><img align="center" src="https://user-images.githubusercontent.com/104662990/196208041-9e38bb66-8a96-4a82-b968-69870727985a.jpg" alt="image" 
 width="380" height="380" /></p>
@@ -39,18 +40,22 @@ The color of the background not only influences the composition of the art piece
 ```mermaid
 graph TD;
 FCS_NFT_Staking-->FCS_ERC-20
+Special_Direct_FCS_NFT_Access_Pass
+LP_Providers-->FCS_ERC-20
 FCS_ERC-20-->Special_FCS_NFT_Access_Pass
-FCS_ERC-20-->FCS_DAO_Governance_Token
+FCS_ERC-20-->FCS_DAO_Governance_Token/Stable_Coin
 
 ```
 
-- FCS NFT Staking rewards: FCS ERC-20 
-- FCS ERC-20 used to purchase
+- FCS NFT Staking rewards: FCS ERC-20 Utility Token
+- Special Direct FCS NFT Access Pass
+- FCS ERC-20 Utility Token used to purchase:
   - Special FCS NFT Access Pass
-  - FCS DAO Governance Token
+  - FCS DAO Governance Token/Stable Coin
   
 # 🚀 FCS Project Tokenomics & Distribution
-- TODO
+- FCS ERC-20 Staking Reward Utility Token is pegged to the FCS DAO GT/SC
+  - The rate of inflation will be relative to the supply of FCS DAO GT/SC
 ## 🥩 Rewards & FCS ERC-20 Token Distribution
 | Staking Rewards | DAO Treasury | Project Treasury | Project Charity Fund | Founder |
 | :--: | :--: | :--: | :--: | :--: |
