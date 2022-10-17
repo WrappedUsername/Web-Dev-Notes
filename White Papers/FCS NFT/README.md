@@ -1,4 +1,4 @@
-# Foam Chunk Smudge NFT
+# Foam Chunk Smudge NFT: White Paper - Work In Progress
 - 500 Abstract Art Pieces
 
 The digital art program I like to use has a digital "brush" I am fond of,
