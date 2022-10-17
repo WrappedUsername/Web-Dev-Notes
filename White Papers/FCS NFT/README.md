@@ -47,34 +47,40 @@ FCS_ERC-20-->Special_HODLers_FCS_NFT_Access_Pass
 FCS_ERC-20-->FCS_DAO_Governance_Token/Stable_Coin
 
 ```
-
+# 🚀 FCS Project Tokenomics & Distribution
 - FCS NFT Staking rewards: FCS ERC-20 Utility Token
 - Special Direct FCS NFT Access Pass
 - LP Providers rewards: FCS-ERC20 Utility Token
 - FCS ERC-20 Utility Token burned to purchase:
   - Special HODLers FCS NFT Access Pass
   - FCS DAO Governance Token/Stable Coin
-  
-# 🚀 FCS Project Tokenomics & Distribution
+
+## 🥩 & LP Rewards & FCS ERC-20 Token Distribution
 - FCS ERC-20 Staking Reward Utility Token is pegged to the FCS DAO GT/SC
   - The rate of inflation will be relative to the supply of FCS DAO GT/SC
   - The burning of tokens to purchase FCS DAO GT/SC will act as a deflationary event
   - The burning of tokens to purchase Special FCS NFT Access Pass will act as a deflationary event
   - Low supply of FCS DAO GT/SC will result in high inflation to encourage adoption and reward early investors
   - High supply of FCS DAO GT/SC will result in low inflation to encourage a stable project economy
-## 🥩 & LP Rewards & FCS ERC-20 Token Distribution
+
 | Staking Rewards & LP Providers Rewards | DAO Treasury | Project Treasury | Project Charity Fund | Founder |
 | :--: | :--: | :--: | :--: | :--: |
 | 80% | 10% | 5% | 2.5% | 2.5% |
 
+
+## 🎟 Special Direct FCS NFT Access Pass
 - Special Direct FCS NFT Access Pass
   - Gives direct access to that special event only 
 
-## 🎟 Special Direct FCS NFT Access Pass
 | Special Direct FCS NFT Access Pass | Event |
 | :--: | :--: |
 
+## 🎟 Special 💎 HODLers FCS NFT Access Pass
 - Special HODLers
+  - Gives acces to any designated special event
+
+| Special HODLers FCS NFT Access Pass | Any Designated Event |
+| :--: | :--: |
 
 # 🗺 FCS RoadMap
 - TODO
