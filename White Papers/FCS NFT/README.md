@@ -66,10 +66,16 @@ FCS_ERC-20-->FCS_DAO_Governance_Token/Stable_Coin
 ## 📈 FCS ERC-20 Utility Token Distribution, 🥩 & LP Rewards
 - FCS ERC-20 Utility Token is pegged to the FCS DAO GT/SC via rate of inflation
   - The rate of inflation will be relative to the supply of FCS DAO GT/SC
-  - The burning of tokens to purchase FCS DAO GT/SC will act as a deflationary event
-  - The burning of tokens to purchase Special FCS NFT Access Pass will act as a deflationary event
   - Low supply of FCS DAO GT/SC will result in high inflation to encourage adoption and reward early investors
   - High supply of FCS DAO GT/SC will result in low inflation to encourage a stable project economy
+  - The burning of tokens to purchase FCS DAO GT/SC will act as a deflationary event
+  - The burning of tokens to purchase Special HODLers FCS NFT Access Pass will act as a deflationary event
+ 
+| Burn | FCS ERC-20 Utility Token | 
+| :--: | :--: | 
+| Recieve | FCS DAO Governance Token |
+| or | |
+| Recieve | Special HODLers FCS NFT Access Pass |
 
 | Staking Rewards & LP Providers Rewards | DAO Treasury | Project Treasury | Project Charity Fund | Founder |
 | :--: | :--: | :--: | :--: | :--: |
