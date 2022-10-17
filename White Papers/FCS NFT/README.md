@@ -40,56 +40,70 @@ The color of the background not only influences the composition of the art piece
 The primary concept driving this project economy will be the use of the Project DAO Governance Token to provide stability, serving a dual purpose and providing exceptional value while doing so.
 ```mermaid
 graph TD;
-FCS_NFT_Staking-->FCS_ERC-20
-Special_Direct_FCS_NFT_Access_Pass
-LP_Providers-->FCS_ERC-20
-FCS_ERC-20-->Special_HODLers_FCS_NFT_Access_Pass
-FCS_ERC-20-->FCS_DAO_Governance_Token/Stable_Coin
+FCS_NFT_Staking-->CHUNKS_ERC-20
+Special_Direct_SMUDGE_NFT_Access_Pass
+LP_Providers-->CHUNKS_ERC-20
+CHUNKS_ERC-20-->Special_HODLers_SMUDGE_NFT_Access_Pass
+CHUNKS_ERC-20-->FOAMS_DAO_Governance_Token/Stable_Coin
 
 ```
 # 🚀 FCS Project Tokenomics & Distribution
-- FCS NFT Staking rewards: FCS ERC-20 Utility Token
-- Special Direct FCS NFT Access Pass
-- LP Providers rewards: FCS-ERC20 Utility Token
-- FCS ERC-20 Utility Token burned to purchase:
-  - Special HODLers FCS NFT Access Pass
-  - FCS DAO Governance Token/Stable Coin
+- FCS NFT Staking rewards: CHUNKS ERC-20 Utility Token
+- Special Direct SMUDGE NFT Access Pass
+- LP Providers rewards: CHUNKS ERC-20 Utility Token
+- CHUNKS ERC-20 Utility Token burned to purchase:
+  - Special HODLers SMUDGE NFT Access Pass
+  - FOAMS DAO Governance Token/Stable Coin
 
-## 🥩 Foam Chunk Smudge NFT Staking
+## 🥩 Foam Chunk Smudge NFT Staking & LP Rewards
 - Stake your NFT!
-  - Recieve FCS ERC-20 Utility Token
+  - Recieve CHUNKS ERC-20 Utility Token
 
-| Stake | Foam Chunk Smudge NFT | Foam Chunk Smudge Xpanded NFT |
-| :--: | :--: | :--: | 
-| Recieve | FCS ERC-20 Utility Token | FCS ERC-20 Utility Token |
-
-## 📈 FCS ERC-20 Utility Token Distribution, 🥩 & LP Rewards
-- FCS ERC-20 Utility Token is pegged to the FCS DAO GT/SC via rate of inflation
-  - The rate of inflation will be relative to the supply of FCS DAO GT/SC
-  - Low supply of FCS DAO GT/SC will result in high inflation to encourage adoption and reward early investors
-  - High supply of FCS DAO GT/SC will result in low inflation to encourage a stable project economy
-  - The burning of tokens to purchase FCS DAO GT/SC will act as a deflationary event
-  - The burning of tokens to purchase Special HODLers FCS NFT Access Pass will act as a deflationary event
- 
-| Burn | FCS ERC-20 Utility Token | 
+| Stake | Foam Chunk Smudge NFT | 
 | :--: | :--: | 
-| Recieve | FCS DAO Governance Token |
 | or | |
-| Recieve | Special HODLers FCS NFT Access Pass |
+| Stake | Foam Chunk Smudge Xpanded NFT |
+| or | | 
+| Provide | LP | 
+| Recieve | CHUNKS ERC-20 Utility Token |
+
+## 📈 CHUNKS ERC-20 Utility Token Distribution
+- CHUNKS ERC-20 Utility Token is pegged to the FOAMS DAO GT/SC via rate of inflation
+  - The rate of inflation will be relative to the supply of FOAMS DAO GT/SC
+  - Low supply of FOAMS DAO GT/SC will result in high inflation to encourage adoption and reward early investors
+  - High supply of FOAMS DAO GT/SC will result in low inflation to encourage a stable project economy
+  - The burning of tokens to purchase FOAMS DAO GT/SC will act as a deflationary event
+  - The burning of tokens to purchase Special HODLers SMUDGE NFT Access Pass will act as a deflationary event
+ 
+| Burn | CHUNKS ERC-20 Utility Token | 
+| :--: | :--: | 
+| Recieve | FOAMS DAO Governance Token/Stable Coin |
+| or | |
+| Recieve | Special HODLers SMUDGE NFT Access Pass |
 
 | Staking Rewards & LP Providers Rewards | DAO Treasury | Project Treasury | Project Charity Fund | Founder |
 | :--: | :--: | :--: | :--: | :--: |
 | 80% | 10% | 5% | 2.5% | 2.5% |
 
+## 💰 CHUNKS ERC-20 Utility Token Supply
+- TODO circulating supply
+- TODO total max supply
+- TODO inflation rates
+- TODO token burning/deflationary events
 
-## 🎟 Special ➡️ Direct FCS NFT Access Pass
+## 🗳 FOAMS DAO Governance Token/Stable Coin
+- TODO 1 token = 1 vote = 1 Stable Coin
+- TODO dual purpose coin
+- TODO underpinning the entire ecosystem safely
+
+## 🎟 Special ➡️ Direct SMUDGE NFT Access Pass
 - Special Direct FCS NFT Access Pass
   - Gives direct access to that special event only 
 
 | Special Direct FCS NFT Access Pass | Event |
 | :--: | :--: |
 
-## 🎟 Special 💎 HODLers FCS NFT Access Pass
+## 🎟 Special 💎 HODLers SMUDGE NFT Access Pass
 - Special HODLers
   - Gives acces to any designated special event
 
