@@ -62,18 +62,22 @@ FCS_ERC-20-->FCS_DAO_Governance_Token/Stable_Coin
   - The burning of tokens to purchase Special FCS NFT Access Pass will act as a deflationary event
   - Low supply of FCS DAO GT/SC will result in high inflation to encourage adoption and reward early investors
   - High supply of FCS DAO GT/SC will result in low inflation to encourage a stable project economy
-## 🥩 Rewards & FCS ERC-20 Token Distribution
+## 🥩 & LP Rewards & FCS ERC-20 Token Distribution
 | Staking Rewards & LP Providers Rewards | DAO Treasury | Project Treasury | Project Charity Fund | Founder |
 | :--: | :--: | :--: | :--: | :--: |
 | 80% | 10% | 5% | 2.5% | 2.5% |
 
-- TODO
+- Special Direct FCS NFT Access Pass
+  - Gives direct access to that special event only 
 
 # 🗺 FCS RoadMap
 - TODO
 - TODO
 
 # 🤝 Meet the Team!
+- TODO
+
+# 🥗 Project Charity Fund - Feeding America
 - TODO
 
 # 🤝 Please Join our Community!
