@@ -23,12 +23,12 @@ The black background has only one instance out of 500, making that NFT the most 
 ```mermaid
 graph TD;
 FCS_NFT_Staking-->FCS_ERC-20
-FCS_ERC-20-->SpecialNFTAccessPass
+FCS_ERC-20-->Special_FCS_NFT_Access_Pass
 FCS_ERC-20-->FCS_DAO_Governance_Token
 
 ```
 
-- NFT Staking for Project ERC-20 
-- Project ERC-20 used to purchase
-  - Special NFT Access Pass
-  - DAO Governance Token
+- FCS NFT Staking rewards: FCS ERC-20 
+- FCS ERC-20 used to purchase
+  - Special FCS NFT Access Pass
+  - FCS DAO Governance Token
