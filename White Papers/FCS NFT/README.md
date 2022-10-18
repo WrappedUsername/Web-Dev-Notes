@@ -30,16 +30,22 @@ smudgeLayerTwo-->accentLayerTwo
 ```
 
 - Background
-
-The black background has only one instance out of 500, making that NFT the most rare.
-The color of the background not only influences the composition of the art piece, it is also a factor that determines the overall rarity of the NFT.
-
+  - The black background has only one instance out of 500, making that NFT the most rare.
+  - The color of the background not only influences the composition of the art piece, it is also a factor that determines the overall rarity of the NFT.
 - Smudge Layer One
+  - TODO
+  - TODO 
 - Smudge Layer Two
+  - TODO
+  - TODO 
 - Accent Layer One
+  - TODO
+  - TODO 
 - Accent Layer Two
+  - TODO
+  - TODO 
 
-# 🏦 FCS NFT Project Meta Economics: The Dual Purpose DAO Governance Token/Stable Coin
+# 🏦 FCS NFT Project Meta Economics: The Dual Purpose DAO Governance Token/Stable Coin and NFT Staking TokenSphere
 The primary concept driving this project economy will be the use of the Project DAO Governance Token to provide stability, serving a dual purpose and providing exceptional value while doing so.
 ```mermaid
 graph TD;
