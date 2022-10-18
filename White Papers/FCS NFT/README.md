@@ -151,7 +151,10 @@ to code I feel more confident about blockchain developement. I still have so muc
 learning new skills thats why I love being a developer I love exploring new ideas and learning new developer skills.</p>
 
 # 🥗 Project Charity Fund - Feeding America
-- TODO
+2.5% of CHUNKS ERC-20 Utility Token Supply will be allocated to the Project Charity Fund
+- Charity Fund donations will go to local food banks across the US who are in partnership with Feeding America
 
 # 🤝 Please Join our Community!
-- TODO
+Hopefully you have found this white paper helpful, I put 100% effort into this project!
+- If you have found this white paper helpful and would like to join our community, please 
+- Visit [Foam Chunk Smudge Minting DApp](https://foam-chunk-smudge.vercel.app/) and mint your Foam Chunk Smudge NFT today!
