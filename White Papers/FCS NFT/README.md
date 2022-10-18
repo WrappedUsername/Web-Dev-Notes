@@ -49,6 +49,10 @@ smudgeLayerTwo-->accentLayerTwo
 
 # 🏦 FCS NFT Project Meta Economics: The Dual Purpose DAO Governance Token/Stable Coin©️ and NFT Staking TokenSphere©️
 The primary concept driving this project economy will be the use of the Project DAO Governance Token to provide stability, serving a dual purpose and providing exceptional value while doing so.
+- The Project Governance Token will double as the Stable Coin, morphing into a hybrid coin, The Dual Purpose DAO Governance Token/Stable Coin
+- TODO
+
+
 ```mermaid
 graph TD;
 FCS_NFT_Staking-->CHUNKS_ERC-20
