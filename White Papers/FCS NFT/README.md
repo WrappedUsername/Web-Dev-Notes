@@ -118,7 +118,12 @@ CHUNKS_ERC-20-->FOAMS_DAO_Governance_Token/Stable_Coin
 - TODO
 
 # 🤝 Meet the Team!
-- TODO
+Currently Foam Chunk Smudge NFT is a one person project.
+<h1 align="center"/>Hi, 👋🏼 I'm WrappedUsername</h1> 
+<p align="center" />I am a self-taught blockchain/dapp developer, it was not easy to learn how to code from zero prior knowledge,
+but I am a recovered alcoholic so I am desperately trying to rebuild my life, so I never give up and after a year of learning how 
+to code I feel more confident about blockchain developement. I still have so much to learn, and a developer should always be 
+learning new skills thats why I love being a developer I love exploring new ideas and learning new developer skills.</p>
 
 # 🥗 Project Charity Fund - Feeding America
 - TODO
