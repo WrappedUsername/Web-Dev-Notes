@@ -47,7 +47,7 @@ smudgeLayerTwo-->accentLayerTwo
   - TODO
   - TODO 
 
-# 🏦 FCS NFT Project Meta Economics: The Dual Purpose DAO Governance Token/Stable Coin and NFT Staking TokenSphere
+# 🏦 FCS NFT Project Meta Economics: The Dual Purpose DAO Governance Token/Stable Coin©️ and NFT Staking TokenSphere©️
 The primary concept driving this project economy will be the use of the Project DAO Governance Token to provide stability, serving a dual purpose and providing exceptional value while doing so.
 ```mermaid
 graph TD;
@@ -58,7 +58,7 @@ CHUNKS_ERC-20-->Special_HODLers_SMUDGE_NFT_Access_Pass
 CHUNKS_ERC-20-->FOAMS_DAO_Governance_Token/Stable_Coin
 
 ```
-# 🚀 FCS Project Tokenomics & Distribution
+# 🚀 The Foam Chunk Smudge NFT Staking TokenSphere©️ & Distribution
 - FCS NFT Staking rewards: CHUNKS ERC-20 Utility Token
 - Special Direct SMUDGE NFT Access Pass
 - LP Providers rewards: CHUNKS ERC-20 Utility Token
@@ -86,11 +86,11 @@ CHUNKS_ERC-20-->FOAMS_DAO_Governance_Token/Stable_Coin
   - The burning of tokens to purchase FOAMS DAO GT/SC will act as a deflationary event
   - The burning of tokens to purchase Special HODLers SMUDGE NFT Access Pass will act as a deflationary event
  
-| Burn | CHUNKS ERC-20 Utility Token | 
-| :--: | :--: | 
-| Recieve | FOAMS DAO Governance Token/Stable Coin |
-| or | |
-| Recieve | Special HODLers SMUDGE NFT Access Pass |
+| Burn | CHUNKS ERC-20 Utility Token | Amount | 5,000,000 |
+| :--: | :--: | :--: | :--: |
+| Recieve | FOAMS DAO Governance Token/Stable Coin | 1 |
+| or | | | |
+| Recieve | Special HODLers SMUDGE NFT Access Pass | 1 |
 
 | Staking Rewards & LP Providers Rewards | DAO Treasury | Project Treasury | Project Charity Fund | Founder |
 | :--: | :--: | :--: | :--: | :--: |
