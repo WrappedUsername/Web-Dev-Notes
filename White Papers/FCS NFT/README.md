@@ -38,17 +38,13 @@ smudgeLayerTwo-->accentLayerTwo
   - The black background has only one instance out of 500, making that NFT the most rare.
   - The color of the background not only influences the composition of the art piece, it is also a factor that determines the overall rarity of the NFT.
 - Smudge Layer One
-  - TODO
-  - TODO 
+  - This layer consists of smudges in grayish blues, purples, and greens
 - Smudge Layer Two
-  - TODO
-  - TODO 
+  - This layer consists of smudges in grays
 - Accent Layer One
-  - TODO
-  - TODO 
+  - This layer consists of accents in gold, green, and pink
 - Accent Layer Two
-  - TODO
-  - TODO 
+  - This layer consists of accents in various colors
 
 # 🏦 FCS NFT Project Meta Economics: The Dual Purpose DAO Governance Token/Stable Coin©️ and NFT Staking TokenSphere©️
 The primary concept driving this project economy will be the use of the Project DAO Governance Token to provide stability, serving a dual purpose and providing exceptional value while doing so.
