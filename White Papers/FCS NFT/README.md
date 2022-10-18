@@ -1,6 +1,6 @@
 # Foam Chunk Smudge NFT: 📃 White Paper - 🚧 Work In Progress 🏗
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FCSNFT&label=Profile%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FCSNFT&label=White Paper%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
 
 - 500 Abstract Art Pieces
 - Deployed to layer 2 Polygon Mainnet
