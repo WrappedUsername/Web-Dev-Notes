@@ -4,8 +4,10 @@
 
 ## [Foam Chunk Smudge Minting DApp](https://foam-chunk-smudge.vercel.app/)
 
+```JavaScript
 - 500 Abstract Art Pieces
 - Deployed to layer 2 Polygon Mainnet
+```
 
 <p><img align="center" src="https://user-images.githubusercontent.com/104662990/196208041-9e38bb66-8a96-4a82-b968-69870727985a.jpg" alt="image" 
 width="380" height="380" /></p>
@@ -17,6 +19,7 @@ The very large image size of 3840 x 3840 that I decided to use has created a few
 - because there was a 25GB upload limit,
 
 but these issues with the large image size just goes to show that NFT's can have more utility and value beyond a digital art piece stored in a file.
+
 
 # 💎 Rarity and Traits
 
@@ -51,6 +54,7 @@ smudgeLayerTwo-->accentLayerTwo
 The primary concept driving this project economy will be the use of the Project DAO Governance Token to provide stability, serving a dual purpose and providing exceptional value while doing so.
 - The Project Governance Token will double as the Stable Coin, morphing into a hybrid coin, The Dual Purpose DAO Governance Token/Stable Coin©️
 - The DAO Governance Token provides outstanding stability due to the fact that 1 token = 1 vote therefore the peg will be solid
+    
 <h3 align="center" />🚀The Foam Chunk Smudge NFT Staking TokenSphere©️</h3>
 
 ```mermaid
