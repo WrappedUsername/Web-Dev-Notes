@@ -103,19 +103,32 @@ CHUNKS_ERC-20-->FOAMS_DAO_Governance_Token/Stable_Coin
 - Special Direct FCS NFT Access Pass
   - Gives direct access to that special event only 
 
-| Special Direct FCS NFT Access Pass | Event |
+| Special Direct FCS NFT Access Pass | Event or Item |
 | :--: | :--: |
 
 ## 🎟 Special 💎 HODLers SMUDGE NFT Access Pass
 - Special HODLers
   - Gives acces to any designated special event
 
-| Special HODLers FCS NFT Access Pass | Any Designated Event |
+| Special HODLers FCS NFT Access Pass | Any Designated Event or Item |
 | :--: | :--: |
 
 # 🗺 FCS RoadMap
-- TODO
-- TODO
+
+- Q4 2022
+## Foam Chunk Smudge NFT Staking TokenSphere and The Dual Purpose Governance Token/Stable Coin
+    - TODO
+
+- Q4 2022
+## FCSX: Foam Chunk Smudge Xpanded
+    - up to 9500 in collection final supply will be determined by the Computer DNA Gods
+    - the image size must be smaller so it can be downloaded and uploaded with ease so I am going to use jpeg 
+
+| Stake | FCSX |
+| :--: | :--: |
+| Recieve | CHUNKS ERC-20 Utility Token |
+
+- Beyond Q4 2022
 
 # 🤝 Meet the Team!
 Currently Foam Chunk Smudge NFT is a one person project.
