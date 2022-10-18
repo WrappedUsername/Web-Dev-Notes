@@ -49,9 +49,9 @@ smudgeLayerTwo-->accentLayerTwo
 
 # 🏦 FCS NFT Project Meta Economics: The Dual Purpose DAO Governance Token/Stable Coin©️ and NFT Staking TokenSphere©️
 The primary concept driving this project economy will be the use of the Project DAO Governance Token to provide stability, serving a dual purpose and providing exceptional value while doing so.
-- The Project Governance Token will double as the Stable Coin, morphing into a hybrid coin, The Dual Purpose DAO Governance Token/Stable Coin
-- TODO
-
+- The Project Governance Token will double as the Stable Coin, morphing into a hybrid coin, The Dual Purpose DAO Governance Token/Stable Coin©️
+- The DAO Governance Token provides outstanding stability due to the fact that 1 token = 1 vote therefore the peg will be solid
+<h3 align="center" />🚀The Foam Chunk Smudge NFT Staking TokenSphere©️</h3>
 
 ```mermaid
 graph TD;
@@ -62,7 +62,7 @@ CHUNKS_ERC-20-->Special_HODLers_SMUDGE_NFT_Access_Pass
 CHUNKS_ERC-20-->FOAMS_DAO_Governance_Token/Stable_Coin
 
 ```
-# 🚀 The Foam Chunk Smudge NFT Staking TokenSphere©️ & Distribution
+# 🚀 Foam Chunk Smudge NFT Staking TokenSphere©️ Distribution
 - FCS NFT Staking rewards: CHUNKS ERC-20 Utility Token
 - Special Direct SMUDGE NFT Access Pass
 - LP Providers rewards: CHUNKS ERC-20 Utility Token
