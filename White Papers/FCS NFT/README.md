@@ -90,7 +90,7 @@ CHUNKS_ERC-20-->FOAMS_DAO_Governance_Token/Stable_Coin
   - The burning of tokens to purchase FOAMS DAO GT/SC will act as a deflationary event
   - The burning of tokens to purchase Special HODLers SMUDGE NFT Access Pass will act as a deflationary event
  
-| Burn | CHUNKS ERC-20 Utility Token | Amount | 5,000,000 |
+| Burn | CHUNKS ERC-20 Utility Token | Amount | 5,000 |
 | :--: | :--: | :--: | :--: |
 | Recieve | FOAMS DAO Governance Token/Stable Coin | 1 |
 | or | | | |
@@ -101,15 +101,19 @@ CHUNKS_ERC-20-->FOAMS_DAO_Governance_Token/Stable_Coin
 | 80% | 10% | 5% | 2.5% | 2.5% |
 
 ## 💰 CHUNKS ERC-20 Utility Token Supply
-- TODO circulating supply
-- TODO total max supply
-- TODO inflation rates
-- TODO token burning/deflationary events
+```JavaScript
+- Circulating supply: 125,000,000
+- Total max supply: infinite
+- Inflation rates: variable pegged to the total supply of FOAMS DAO Governance Token/Stable Coin
+- Token burning/deflationary events: multiple 
+```
 
 ## 🗳 FOAMS DAO Governance Token/Stable Coin
-- TODO 1 token = 1 vote = 1 Stable Coin
-- TODO dual purpose coin
+```JavaScript
+- 1 Token = 1 Vote = 1 Stable Coin
+- The dual purpose coin
 - TODO underpinning the entire ecosystem safely
+```
 
 ## 🎟 Special ➡️ Direct SMUDGE NFT Access Pass
 - Special Direct FCS NFT Access Pass
