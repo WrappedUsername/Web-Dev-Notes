@@ -55,24 +55,24 @@ The primary concept driving this project economy will be the use of the Project 
 
 ```mermaid
 graph TD;
-FCS_NFT_Staking-->CHUNKS_ERC-20
+FCS_NFT_Staking-->CHUNKS_ERC20
 Special_Direct_SMUDGE_NFT_Access_Pass
-LP_Providers-->CHUNKS_ERC-20
-CHUNKS_ERC-20-->Special_HODLers_SMUDGE_NFT_Access_Pass
-CHUNKS_ERC-20-->FOAMS_DAO_Governance_Token/Stable_Coin
+LP_Providers-->CHUNKS_ERC20
+CHUNKS_ERC20-->Special_HODLers_SMUDGE_NFT_Access_Pass
+CHUNKS_ERC20-->FOAMS_DAO_Governance_Token/Stable_Coin
 
 ```
 # 🚀 Foam Chunk Smudge NFT Staking TokenSphere©️ Distribution
-- FCS NFT Staking rewards: CHUNKS ERC-20 Utility Token
+- FCS NFT Staking rewards: CHUNKS ERC20 Utility Token
 - Special Direct SMUDGE NFT Access Pass
-- LP Providers rewards: CHUNKS ERC-20 Utility Token
-- CHUNKS ERC-20 Utility Token burned to purchase:
+- LP Providers rewards: CHUNKS ERC20 Utility Token
+- CHUNKS ERC20 Utility Token burned to purchase:
   - Special HODLers SMUDGE NFT Access Pass
   - FOAMS DAO Governance Token/Stable Coin
 
 ## 🥩 Foam Chunk Smudge NFT Staking & LP Rewards
 - Stake your NFT!
-  - Recieve CHUNKS ERC-20 Utility Token
+  - Recieve CHUNKS ERC20 Utility Token
 
 | Stake | Foam Chunk Smudge NFT | 
 | :--: | :--: | 
@@ -80,33 +80,38 @@ CHUNKS_ERC-20-->FOAMS_DAO_Governance_Token/Stable_Coin
 | Stake | Foam Chunk Smudge Xpanded NFT |
 | or | | 
 | Provide | LP | 
-| Recieve | CHUNKS ERC-20 Utility Token |
+| Recieve | CHUNKS ERC20 Utility Token |
 
-## 📈 CHUNKS ERC-20 Utility Token Distribution
-- CHUNKS ERC-20 Utility Token is pegged to the FOAMS DAO GT/SC via rate of inflation
+## 📈 CHUNKS ERC20 Utility Token Distribution
+- CHUNKS ERC20 Utility Token is pegged to the FOAMS DAO GT/SC via rate of inflation
   - The rate of inflation will be relative to the supply of FOAMS DAO GT/SC
   - Low supply of FOAMS DAO GT/SC will result in high inflation to encourage adoption and reward early investors
   - High supply of FOAMS DAO GT/SC will result in low inflation to encourage a stable project economy
-  - The burning of tokens to purchase FOAMS DAO GT/SC will act as a deflationary event
-  - The burning of tokens to purchase Special HODLers SMUDGE NFT Access Pass will act as a deflationary event
- 
-| Burn | CHUNKS ERC-20 Utility Token | Amount | 5,000 |
+
+| High Supply of | FOAMS DAO GT/SC | Rate of Inflation: | Low |
 | :--: | :--: | :--: | :--: |
-| Recieve | FOAMS DAO Governance Token/Stable Coin | 1 |
-| or | | | |
-| Recieve | Special HODLers SMUDGE NFT Access Pass | 1 |
+| Low Supply of | FOAMS DAO GT/SC | Rate of Inflation: | High |
 
 | Staking Rewards & LP Providers Rewards | DAO Treasury | Project Treasury | Project Charity Fund | Founder |
 | :--: | :--: | :--: | :--: | :--: |
 | 80% | 10% | 5% | 2.5% | 2.5% |
 
-## 💰 CHUNKS ERC-20 Utility Token Supply
+## 💰 CHUNKS ERC20 Utility Token Supply
 ```JavaScript
 - Circulating supply: 125,000,000
 - Total max supply: infinite
 - Inflation rates: variable pegged to the total supply of FOAMS DAO Governance Token/Stable Coin
 - Token burning/deflationary events: multiple 
+  - The burning of tokens to purchase FOAMS DAO GT/SC will act as a deflationary event
+  - The burning of tokens to purchase Special HODLers SMUDGE NFT Access Pass will act as a deflationary event
+
 ```
+
+| Burn | CHUNKS ERC20 Utility Token | Amount | 5,000 |
+| :--: | :--: | :--: | :--: |
+| Recieve | FOAMS DAO Governance Token/Stable Coin | 1 |
+| or | | | |
+| Recieve | Special HODLers SMUDGE NFT Access Pass | 1 |
 
 ## 🗳 FOAMS DAO Governance Token/Stable Coin
 ```JavaScript
@@ -142,7 +147,7 @@ CHUNKS_ERC-20-->FOAMS_DAO_Governance_Token/Stable_Coin
 
 | Stake | FCSX |
 | :--: | :--: |
-| Recieve | CHUNKS ERC-20 Utility Token |
+| Recieve | CHUNKS ERC20 Utility Token |
 
 - Beyond Q4 2022
 
@@ -155,7 +160,7 @@ to code I feel more confident about blockchain developement. I still have so muc
 learning new skills thats why I love being a developer I love exploring new ideas and learning new developer skills.</p>
 
 # 🥗 Project Charity Fund - Feeding America
-2.5% of CHUNKS ERC-20 Utility Token Supply will be allocated to the Project Charity Fund
+2.5% of CHUNKS ERC20 Utility Token Supply will be allocated to the Project Charity Fund
 - Charity Fund donations will go to local food banks across the US who are in partnership with Feeding America
 
 # 🤝 Please Join our Community!
