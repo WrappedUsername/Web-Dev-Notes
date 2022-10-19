@@ -92,9 +92,12 @@ CHUNKS_ERC20-->FOAMS_DAO_Governance_Token/Stable_Coin
 | :--: | :--: | :--: | :--: |
 | Low Supply of | FOAMS DAO GT/SC | Rate of Inflation: | High |
 
+    - Distribution of initial circulating supply: 125,000,000
+
 | Staking Rewards & LP Providers Rewards | DAO Treasury | Project Treasury | Project Charity Fund | Founder |
 | :--: | :--: | :--: | :--: | :--: |
 | 80% | 10% | 5% | 2.5% | 2.5% |
+| 100000000 | 12500000 | 6250000 | 3125000 | 3125000 |
 
 ## 💰 CHUNKS ERC20 Utility Token Supply
 ```JavaScript
