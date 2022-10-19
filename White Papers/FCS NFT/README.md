@@ -88,9 +88,9 @@ CHUNKS_ERC20-->FOAMS_DAO_Governance_Token/Stable_Coin
   - Low supply of FOAMS DAO GT/SC will result in high inflation to encourage adoption and reward early investors
   - High supply of FOAMS DAO GT/SC will result in low inflation to encourage a stable project economy
 
-| High Supply of | FOAMS DAO GT/SC | Rate of Inflation: | Low |
-| :--: | :--: | :--: | :--: |
-| Low Supply of | FOAMS DAO GT/SC | Rate of Inflation: | High |
+| High Supply of | FOAMS DAO GT/SC | Rate of Inflation: | Low | 25% |
+| :--: | :--: | :--: | :--: | :--: |
+| Low Supply of | FOAMS DAO GT/SC | Rate of Inflation: | High | 100% |
 
     - Distribution of initial circulating supply: 125,000,000
 
