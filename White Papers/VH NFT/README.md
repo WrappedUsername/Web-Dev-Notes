@@ -7,12 +7,12 @@
 
 - TODO
 ```JavaScript
-- 500 abstract art pieces
+- 4000 Voxel SB-1 Defiant Helicopters
 - Deployed to layer 2 Polygon mainnet
+- Voxel OBJ files can be used in the Metaverse, or Game Worlds.
 ```
 
-- TODO
-<p><img align="center" src="https://user-images.githubusercontent.com/104662990/196208041-9e38bb66-8a96-4a82-b968-69870727985a.jpg" alt="image" 
+<p><img align="center" src="https://user-images.githubusercontent.com/104662990/196980834-20355c98-c657-4155-be9d-fee3cd2ad12b.png" alt="image" 
 width="380" height="380" /></p>
 
 - TODO
