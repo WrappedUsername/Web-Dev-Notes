@@ -1,12 +1,12 @@
-# Foam Chunk Smudge NFT: 📃 White Paper - 🚧 Work In Progress 🏗
+# Foam Chunk Smudge NFT: 📃 White Paper 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FCSNFT&label=White Paper%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
 
 ## [Foam Chunk Smudge Minting DApp](https://foam-chunk-smudge.vercel.app/)
 
 ```JavaScript
-- 500 Abstract Art Pieces
-- Deployed to layer 2 Polygon Mainnet
+- 500 abstract art pieces
+- Deployed to layer 2 Polygon mainnet
 ```
 
 <p><img align="center" src="https://user-images.githubusercontent.com/104662990/196208041-9e38bb66-8a96-4a82-b968-69870727985a.jpg" alt="image" 
@@ -118,10 +118,14 @@ CHUNKS_ERC20-->FOAMS_DAO_Governance_Token/Stable_Coin
 
 ## 🗳 FOAMS DAO Governance Token/Stable Coin
 ```JavaScript
-- 1 Token = 1 Vote = 1 Stable Coin
-- The dual purpose coin
-- TODO underpinning the entire ecosystem safely
+- The Dual Purpose Coin
+- Underpinning the entire ecosystem safely
+  - No algorithm to crash or manipulate the stable coin
+  - Used to govern the DAO
 ```
+
+| 1 Token = | 1 Vote = | 1 Stable Coin |
+| :--: | :--: | :--: |
 
 ## 🎟 Special ➡️ Direct SMUDGE NFT Access Pass
 - Special Direct FCS NFT Access Pass
@@ -141,7 +145,7 @@ CHUNKS_ERC20-->FOAMS_DAO_Governance_Token/Stable_Coin
 
 - Q4 2022
 ## Foam Chunk Smudge NFT Staking TokenSphere and The Dual Purpose Governance Token/Stable Coin
-    - TODO
+    - Deployed to layer 2 Polygon mainnet
 
 - Q4 2022
 ## FCSX: Foam Chunk Smudge Xpanded
@@ -153,6 +157,8 @@ CHUNKS_ERC20-->FOAMS_DAO_Governance_Token/Stable_Coin
 | Recieve | CHUNKS ERC20 Utility Token |
 
 - Beyond Q4 2022
+## New Collections of Foam Chunk Smudge NFT's?
+    - Keep an eye on our Discord to find out if I will be dropping any more FCS NFT collections!
 
 # 🤝 Meet the Team!
 Currently Foam Chunk Smudge NFT is a one person project.
