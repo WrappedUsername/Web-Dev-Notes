@@ -150,7 +150,7 @@ KNUCKLE_ERC20-->DRAGGERS_DAO_Governance_Token/Stable_Coin
     - Keep an eye on our Discord to find out if I will be dropping any more KD NFT collections!
 
 # 🤝 Meet the Team!
-Currently Knuckle Draggers NFT is a one person project.
+    - Currently Knuckle Draggers NFT is a one person project.
 <h1 align="center"/>Hi, 👋🏼 I'm WrappedUsername</h1> 
 <p align="center" />I am a self-taught blockchain/dapp developer, it was not easy to learn how to code from zero prior knowledge,
 but I am a recovered alcoholic so I am desperately trying to rebuild my life, so I never give up and after a year of learning how 
