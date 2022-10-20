@@ -1,6 +1,9 @@
 # Knuckle Draggers NFT: 📃 White Paper - 🚧 Work In Progress 🏗
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KDNFT&label=White Paper%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=KDNFT&label=White Paper%20views&color=0e75b6&style=flat" alt="wrappedusername" /> 
+<img alt="Stars" src="https://img.shields.io/github/stars/Web-Dev-Notes/White Papers/KD NFT/differ?style=flat-square&labelColor=343b41"/>
+</p>
 
 - TODO Change this when minting DApp is finished
 ## [Foam Chunk Smudge Minting DApp](https://foam-chunk-smudge.vercel.app/) 
