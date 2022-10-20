@@ -1,6 +1,9 @@
 # Foam Chunk Smudge NFT: 📃 White Paper 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FCSNFT&label=White Paper%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=FCSNFT&label=White Paper%20views&color=0e75b6&style=flat" alt="wrappedusername" />
+<img alt="Stars" src="https://img.shields.io/github/stars/WrappedUsername/Web-Dev-Notes?style=flat-square&labelColor=343b41"/>
+</p>
 
 ## [Foam Chunk Smudge Minting DApp](https://foam-chunk-smudge.vercel.app/)
 
@@ -163,6 +166,9 @@ CHUNKS_ERC20-->FOAMS_DAO_Governance_Token/Stable_Coin
 # 🤝 Meet the Team!
 Currently Foam Chunk Smudge NFT is a one person project.
 <h1 align="center"/>Hi, 👋🏼 I'm WrappedUsername</h1> 
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=WrappedUsername&theme=react-dark&hide_border=true&area=true)
+
 <p align="center" />I am a self-taught blockchain/dapp developer, it was not easy to learn how to code from zero prior knowledge,
 but I am a recovered alcoholic so I am desperately trying to rebuild my life, so I never give up and after a year of learning how 
 to code I feel more confident about blockchain developement. I still have so much to learn, and a developer should always be 
