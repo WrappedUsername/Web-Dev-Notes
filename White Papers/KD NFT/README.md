@@ -126,14 +126,14 @@ KNUCKLE_ERC20-->DRAGGERS_DAO_Governance_Token/Stable_Coin
 | :--: | :--: | :--: |
 
 ## 🎟 Special ➡️ Direct Knuckle Draggers NFT Access Pass
-- Special Direct FCS NFT Access Pass
+- Special Direct gets:
   - Gives direct access to that special event only 
 
 | Special Direct Knuckle Draggers NFT Access Pass | Event or Item |
 | :--: | :--: |
 
 ## 🎟 Special 💎 HODLers Knuckle Draggers NFT Access Pass
-- Special HODLers
+- Special HODLers get:
   - Gives acces to any designated special event
 
 | Special HODLers Knuckle Draggers NFT Access Pass | Any Designated Event or Item |
