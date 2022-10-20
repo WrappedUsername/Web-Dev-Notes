@@ -11,8 +11,7 @@
 - Deployed to layer 2 Polygon mainnet
 ```
 
-- TODO
-<p><img align="center" src="https://user-images.githubusercontent.com/104662990/196208041-9e38bb66-8a96-4a82-b968-69870727985a.jpg" alt="image" 
+<p><img align="center" src="https://user-images.githubusercontent.com/104662990/196980378-811e4527-8590-4501-81d4-e4350804d049.jpg" alt="image" 
 width="380" height="380" /></p>
 
 - TODO
