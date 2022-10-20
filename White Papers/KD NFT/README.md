@@ -2,8 +2,8 @@
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=KDNFT&label=White Paper%20views&color=f79952&style=flat" alt="wrappedusername" /> 
-<img alt="Stars" src="https://img.shields.io/github/stars/WrappedUsername/Web-Dev-Notes?style=flat-square&labelColor=f79952"/>
-  <img src="https://img.shields.io/static/v1?label=Knuckles&message=Dragged&color=f79952" />
+<img alt="Stars" src="https://img.shields.io/github/stars/WrappedUsername/Web-Dev-Notes?style=flat-square&labelColor=343b41"/>
+<img src="https://img.shields.io/static/v1?label=Knuckles&message=Dragged&color=f79952" />
 </p>
 
 - TODO Change this when minting DApp is finished
