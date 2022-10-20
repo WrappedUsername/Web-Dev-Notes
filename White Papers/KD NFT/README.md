@@ -63,9 +63,9 @@ KNUCKLE_ERC20-->DRAGGERS_DAO_Governance_Token/Stable_Coin
 ```
 
 # 🚀 Knuckle Draggers NFT Staking TokenSphere©️ Distribution
-- FCS NFT Staking rewards: KNUCKLE ERC20 Utility Token
+- Knuckle Draggers NFT Staking rewards = KNUCKLE ERC20 Utility Token
 - Special Direct Knuckle Draggers NFT Access Pass
-- LP Providers rewards: KNUCKLE ERC20 Utility Token
+- LP Providers rewards = KNUCKLE ERC20 Utility Token
 - KNUCKLE ERC20 Utility Token burned to purchase:
   - Special HODLers Knuckle Draggers NFT Access Pass
   - DRAGGERS DAO Governance Token/Stable Coin
