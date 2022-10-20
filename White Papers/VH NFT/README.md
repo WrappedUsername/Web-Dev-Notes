@@ -150,6 +150,9 @@ VOXEL_ERC20-->HELOS_DAO_Governance_Token/Stable_Coin
 # 🤝 Meet the Team!
     - Currently Voxel Helos NFT is a one person project.
 <h1 align="center"/>Hi, 👋🏼 I'm WrappedUsername</h1> 
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=WrappedUsername&theme=react-dark&hide_border=true&area=true)
+
 <p align="center" />I am a self-taught blockchain/dapp developer, it was not easy to learn how to code from zero prior knowledge,
 but I am a recovered alcoholic so I am desperately trying to rebuild my life, so I never give up and after a year of learning how 
 to code I feel more confident about blockchain developement. I still have so much to learn, and a developer should always be 
