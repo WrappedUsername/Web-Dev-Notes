@@ -150,7 +150,7 @@ KNUCKLE_ERC20-->DRAGGERS_DAO_Governance_Token/Stable_Coin
     - Keep an eye on our Discord to find out if I will be dropping any more KD NFT collections!
 
 # 🤝 Meet the Team!
-Currently Foam Chunk Smudge NFT is a one person project.
+Currently Knuckle Draggers NFT is a one person project.
 <h1 align="center"/>Hi, 👋🏼 I'm WrappedUsername</h1> 
 <p align="center" />I am a self-taught blockchain/dapp developer, it was not easy to learn how to code from zero prior knowledge,
 but I am a recovered alcoholic so I am desperately trying to rebuild my life, so I never give up and after a year of learning how 
@@ -165,4 +165,4 @@ learning new skills thats why I love being a developer I love exploring new idea
 Hopefully you have found this white paper helpful, I put 100% effort into this project!
 - If you have found this white paper helpful and would like to join our community, please 
 - TODO Change the DApp link when finished
-- Visit [Foam Chunk Smudge Minting DApp](https://foam-chunk-smudge.vercel.app/) and mint your Foam Chunk Smudge NFT today!
+- Visit [Foam Chunk Smudge Minting DApp](https://foam-chunk-smudge.vercel.app/) and mint your Knuckle Draggers NFT today!
