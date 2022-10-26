@@ -72,7 +72,7 @@ VOXEL_ERC20-->HELOS_DAO_Governance_Token/Stable_Coin
 
 ## 🥩 Voxel Helos NFT Staking & LP Rewards
 - Stake your NFT!
-  - Recieve VOXEL ERC20 Utility Token
+  - Receive VOXEL ERC20 Utility Token
 
 | Stake | Voxel Helos NFT | 
 | :--: | :--: | 
@@ -80,7 +80,7 @@ VOXEL_ERC20-->HELOS_DAO_Governance_Token/Stable_Coin
 | Stake | Voxel Helos Genesis NFT |
 | or | | 
 | Provide | LP | 
-| Recieve | VOXEL ERC20 Utility Token |
+| Receive | VOXEL ERC20 Utility Token |
 
 ## 📈 VOXEL ERC20 Utility Token Distribution
 - VOXEL ERC20 Utility Token is pegged to the HELOS DAO GT/SC via rate of inflation
@@ -111,9 +111,9 @@ VOXEL_ERC20-->HELOS_DAO_Governance_Token/Stable_Coin
 
 | Burn | VOXEL ERC20 Utility Token | Amount | 5,000 |
 | :--: | :--: | :--: | :--: |
-| Recieve | HELOS DAO Governance Token/Stable Coin | 1 |
+| Receive | HELOS DAO Governance Token/Stable Coin | 1 |
 | or | | | |
-| Recieve | Special HODLers Voxel Helos NFT Access Pass | 1 |
+| Receive | Special HODLers Voxel Helos NFT Access Pass | 1 |
 
 ## 🚁 HELOS DAO 🗳 Governance Token/Stable Coin
 ```JavaScript
