@@ -76,13 +76,13 @@ KNUCKLE_ERC20-->DRAGGERS_DAO_Governance_Token/Stable_Coin
 
 ## 🥩 Knuckle Draggers NFT Staking & LP Rewards
 - Stake your NFT!
-  - Recieve KNUCKLE ERC20 Utility Token
+  - Receive KNUCKLE ERC20 Utility Token
 
 | Stake | Knuckle Draggers NFT | 
 | :--: | :--: | 
 | or | | 
 | Provide | LP | 
-| Recieve | KNUCKLE ERC20 Utility Token |
+| Receive | KNUCKLE ERC20 Utility Token |
 
 ## 📈 KNUCKLE ERC20 Utility Token Distribution
 - KNUCKLE ERC20 Utility Token is pegged to the DRAGGERS DAO GT/SC via rate of inflation
@@ -114,9 +114,9 @@ KNUCKLE_ERC20-->DRAGGERS_DAO_Governance_Token/Stable_Coin
 
 | Burn | KNUCKLE ERC20 Utility Token | Amount | 5,000 |
 | :--: | :--: | :--: | :--: |
-| Recieve | DRAGGERS DAO Governance Token/Stable Coin | 1 |
+| Receive | DRAGGERS DAO Governance Token/Stable Coin | 1 |
 | or | | | |
-| Recieve | Special HODLers Knuckle Draggers NFT Access Pass | 1 |
+| Receive | Special HODLers Knuckle Draggers NFT Access Pass | 1 |
 
 ## 🗳 DRAGGERS DAO Governance Token/Stable Coin
 ```JavaScript
