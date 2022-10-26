@@ -83,7 +83,7 @@ CHUNKS_ERC20-->FOAMS_DAO_Governance_Token/Stable_Coin
 | Stake | Foam Chunk Smudge Xpanded NFT |
 | or | | 
 | Provide | LP | 
-| Recieve | CHUNKS ERC20 Utility Token |
+| Receive | CHUNKS ERC20 Utility Token |
 
 ## 📈 CHUNKS ERC20 Utility Token Distribution
 - CHUNKS ERC20 Utility Token is pegged to the FOAMS DAO GT/SC via rate of inflation
@@ -115,9 +115,9 @@ CHUNKS_ERC20-->FOAMS_DAO_Governance_Token/Stable_Coin
 
 | Burn | CHUNKS ERC20 Utility Token | Amount | 5,000 |
 | :--: | :--: | :--: | :--: |
-| Recieve | FOAMS DAO Governance Token/Stable Coin | 1 |
+| Receive | FOAMS DAO Governance Token/Stable Coin | 1 |
 | or | | | |
-| Recieve | Special HODLers SMUDGE NFT Access Pass | 1 |
+| Receive | Special HODLers SMUDGE NFT Access Pass | 1 |
 
 ## 🗳 FOAMS DAO Governance Token/Stable Coin
 ```JavaScript
@@ -144,7 +144,7 @@ CHUNKS_ERC20-->FOAMS_DAO_Governance_Token/Stable_Coin
 | Special HODLers FCS NFT Access Pass | Any Designated Event or Item |
 | :--: | :--: |
 
-# 🗺 FCS RoadMap
+# 🗺 Foam Chunk Smudge RoadMap
 
 - Q4 2022
 ## Foam Chunk Smudge NFT Staking TokenSphere and The Dual Purpose Governance Token/Stable Coin
@@ -157,7 +157,7 @@ CHUNKS_ERC20-->FOAMS_DAO_Governance_Token/Stable_Coin
 
 | Stake | FCSX |
 | :--: | :--: |
-| Recieve | CHUNKS ERC20 Utility Token |
+| Receive | CHUNKS ERC20 Utility Token |
 
 - Beyond Q4 2022
 ## New Collections of Foam Chunk Smudge NFT's?
