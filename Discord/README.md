@@ -1,4 +1,6 @@
-# Welcome to Foam Chunk Smudge NFT Discord
+# Discord Set-Up - Work In Progress
+
+Rules Channel set-up e.g.
 - Please read and follow our rules!
 - Please verify your NFT with the collabland-join channel!
 - Please don't hesitate to ask someone for help if you need help!
