@@ -7,7 +7,7 @@
 - 👀 Are you currently looking for a 🕸web3 blockchain job or other dev jobs? Check this out! [Developer Jobs Here!](https://app.usebraintrust.com/r/keefe1/)
 
 ```yml
-Folders with notes and README files will become blog posts in my new blog website I completed building:
+README files will become blog posts in my new blog website, that I recently completed building:
 ```
 
 [Journey Blog](https://journey-blog-wrappedusername.vercel.app/)
