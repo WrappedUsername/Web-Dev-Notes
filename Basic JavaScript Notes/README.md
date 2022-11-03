@@ -12,6 +12,21 @@ const myVariable *= 2;
 /// @notice augmented division
 const myVariable /= 2;
 ```
+
+- another example would be,
+
+```JavaScript
+    for (let i = 0; i < n; i++) {
+        if (arr[i] > 0 ) {
+            positive += 1; // <------- augmented addition
+        } else if (arr[i] < 0 ) {
+            negative += 1; // <------- augmented addition
+        } else {
+            zero += 1; // <------- augmented addition
+        }
+    }
+```
+
 ## Escaping literal quotes \ before "
 ```JavaScript
 const myVariable = 'backslash before, let\'s use "quotation marks" inside a string.';
