@@ -1,6 +1,34 @@
 # Basic JavaScript Notes
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BasicJavaScriptNotes&label=Repository%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
 
+### Find remainder operator %
+```JavaScript
+/** 
+@notice myVariable is assigned a value of 2, because 3 will go into 11, 
+3 times with a remainder of 2. 
+*/
+const myVariable = 11 % 3; 
+```
+### Increment ++ Decrement --
+```JavaScript
+myVariable++;
+myVariable--;
+```
+
+- another example would be,
+
+```JavaScript
+    for (let i = 0; i < n; i++) {   // <------- increment used here a lot!
+        if (arr[i] > 0 ) {
+            positive += 1; 
+        } else if (arr[i] < 0 ) {
+            negative += 1; 
+        } else {
+            zero += 1; 
+        }
+    }
+```
+
 ## Compound assignments += -= *= /= 
 ```JavaScript
 /// @notice augmented addition
