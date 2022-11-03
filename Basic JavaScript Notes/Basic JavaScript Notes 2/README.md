@@ -59,7 +59,13 @@ const thirdToLastLetter = firstName[firstName.length - 3];
 ```
 thirdToLastLetter would have a value of the string s.
 
+## Adding new lines to console log
 
-
-
+```yml
+Create sentences with string fragments, or add new line breaks to console logs:
+```
+```TypeScript
+const sentence = "It was really " + "hot" + ", and we " + "laughed" + " ourselves " + "silly" + ".";
+console.log(pos.toFixed(6) + "\n" + neg.toFixed(6) + "\n" + zer.toFixed(6));
+```
 
