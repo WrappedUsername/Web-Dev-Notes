@@ -27,9 +27,21 @@ The EVM has:
 ```
 
 - CPU
-  - The Instruction Set uses basic data types ( booleans, integers, addresses, etc.) to come to, a consensus as to how, and what the world's CPU computes 
+  - The Instruction Set uses basic data types ( booleans, integers, addresses, etc.) to come to, a consensus as to how, and what the world's CPU computes.
+  
+```yml
+The Ethereum Virtual Machine has three areas where it can store data: 
+- storage, 
+- memory, 
+- and the stack
+```
+
 - RAM 
-  - Memory is  
+  - Memory is a freshly cleared instance for each message call,
+  - and it is linear, and can be addressed at the byte level, but reads are limited to a width of 256 bits, while writes can be either 8 bits or 256 bits wide.
+  - Memory is more costly the larger it grows, because (it scales quadratically), and
+  - memory is expanded by a word (256-bit), when accessing (either reading or writing) a previously untouched memory word (i.e. any offset within a word).
+  - At the time of expansion, the cost in gas must be paid ( and remember it scales quadratically).
 - Storage
 - and a Network Interface
 
