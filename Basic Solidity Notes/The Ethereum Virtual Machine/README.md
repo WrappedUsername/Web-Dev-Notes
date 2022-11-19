@@ -28,6 +28,18 @@ The EVM has:
 
 - CPU
   - The Instruction Set uses basic data types ( booleans, integers, addresses, etc.) to come to, a consensus as to how, and what the world's CPU computes.
+
+## 🗜 Setting limits
+
+```yml
+The EVM is a quasi–Turing-complete state machine: 
+```
+
+- "quasi" because all execution processes are limited to a finite number of computational steps by the amount of gas available for any given smart contract execution.
+- Calls are limited to a depth of 1024, which means that for more complex operations, loops should be preferred over recursive calls. 
+- Furthermore, only 63/64th of the gas can be forwarded in a message call, which causes a depth limit of a little less than 1000 in practice.
+
+## 🗄 Data Storage
   
 ```yml
 The Ethereum Virtual Machine has three areas where it can store data: 
@@ -43,5 +55,10 @@ The Ethereum Virtual Machine has three areas where it can store data:
   - memory is expanded by a word (256-bit), when accessing (either reading or writing) a previously untouched memory word (i.e. any offset within a word).
   - At the time of expansion, the cost in gas must be paid ( and remember it scales quadratically).
 - Storage
-- and a Network Interface
+
+## 📡 The EVM Network 
+
+- The Network Interface
+  - An RPC (remote procedure call) endpoint is like a node's address: it's a URL which requests for blockchain data can be sent to. 
+  - The Ethereum JSON-RPC spec defines the methods which you can use to retrieve data from a node.
 
