@@ -26,7 +26,12 @@ Each image of a virtual machine has:
 The EVM has:
 ```
 
-- CPU
+- CPU: each [ethereum node](https://etherscan.io/nodetracker) is able to be run on a computer with the specs of a nice gaming PC,
+  - At the time of writing there was around [7,500 nodes](https://etherscan.io/nodetracker)
+  
+| 7500 nodes | average host CPU 4 cores |
+| :---: | :---: |
+  
   - The Instruction Set uses basic data types ( booleans, integers, addresses, etc.) to come to, a consensus as to how, and what the world's CPU computes.
 
 ## 🗜 Setting limits
