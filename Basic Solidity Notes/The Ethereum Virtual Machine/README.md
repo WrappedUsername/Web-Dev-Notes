@@ -26,13 +26,14 @@ Each image of a virtual machine has:
 The EVM has:
 ```
 
-- CPU: each [ethereum node](https://etherscan.io/nodetracker) is able to be run on a computer with the specs of a nice gaming PC,
+- CPU: each [ethereum node](https://etherscan.io/nodetracker) is able to be run on a computer with the specs of a nice gaming PC, but without the GPU.
   - At the time of writing there was around,
   
 | [7,500 ethereum nodes](https://etherscan.io/nodetracker) | 
 | :---: | 
   
-  - The Instruction Set uses basic data types ( booleans, integers, addresses, etc.) to come to, a consensus as to how, and what the world's CPU computes.
+  - The ethereum nodes use an Execution Client with the [Instruction Set](https://docs.soliditylang.org/en/latest/yul.html#opcodes), comprised of basic data types ( booleans, integers, addresses, etc.) to come to, a consensus as to how, and what the world's CPU computes.
+  - Each node must run both a consensus client, and an execution client
 
 ## 🗜 Setting limits
 
