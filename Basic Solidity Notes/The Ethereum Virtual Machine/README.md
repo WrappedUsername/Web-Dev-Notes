@@ -27,10 +27,10 @@ The EVM has:
 ```
 
 - CPU: each [ethereum node](https://etherscan.io/nodetracker) is able to be run on a computer with the specs of a nice gaming PC,
-  - At the time of writing there was around [7,500 nodes](https://etherscan.io/nodetracker)
+  - At the time of writing there was around,
   
-| 7500 nodes | average host CPU 4 cores |
-| :---: | :---: |
+| [7,500 ethereum nodes](https://etherscan.io/nodetracker) | 
+| :---: | 
   
   - The Instruction Set uses basic data types ( booleans, integers, addresses, etc.) to come to, a consensus as to how, and what the world's CPU computes.
 
