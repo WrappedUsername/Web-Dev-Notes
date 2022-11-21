@@ -45,7 +45,7 @@ The EVM is a quasi–Turing-complete state machine:
 ```
  
 - "quasi" because all execution processes are limited to a finite number of computational steps by the amount of gas available for any given smart contract execution.
-  - [Gas is used to solve the Turing complete state, halting problem](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc#turing-completeness-and-gas),
+  - [Gas](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc#gas) is used to solve the [Turing complete state, halting problem](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc#turing-completeness-and-gas),
 - As such, the halting problem is "solved" (all program executions will halt) and the situation where execution might (accidentally or maliciously) run forever, thus bringing the Ethereum platform to halt in its entirety, is avoided.
 
 ## 📚 The stack
