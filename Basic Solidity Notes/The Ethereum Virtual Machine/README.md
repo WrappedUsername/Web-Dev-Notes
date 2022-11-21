@@ -22,6 +22,8 @@ Each image of a virtual machine has:
 - Storage
 - and a Network Interface
 
+## 🌐 The World's 💻 Computer Parts
+
 ```yml
 The EVM has:
 ```
