@@ -40,8 +40,22 @@ The EVM has:
 ```yml
 The EVM is a quasi–Turing-complete state machine: 
 ```
-
+ 
 - "quasi" because all execution processes are limited to a finite number of computational steps by the amount of gas available for any given smart contract execution.
+  - [Gas is used to solve the Turing complete state, halting problem](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc),
+- As such, the halting problem is "solved" (all program executions will halt) and the situation where execution might (accidentally or maliciously) run forever, thus bringing the Ethereum platform to halt in its entirety, is avoided.
+
+```yml
+The stack:
+```
+- It has a maximum size of 1024 elements and contains words of 256 bits.
+
+```yml
+Access to the stack is limited to the top end in the following way:
+```
+- It is possible to copy one of the topmost 16 elements to the top of the stack or swap the topmost element with one of the 16 elements below it.
+- All other operations take the topmost two (or one, or more, depending on the operation) elements from the stack and push the result onto the stack.
+- Of course it is possible to move stack elements to storage or memory in order to get deeper access to the stack, but it is not possible to just access arbitrary elements deeper in the stack without first removing the top of the stack.
 - Calls are limited to a depth of 1024, which means that for more complex operations, loops should be preferred over recursive calls. 
 - Furthermore, only 63/64th of the gas can be forwarded in a message call, which causes a depth limit of a little less than 1000 in practice.
 
