@@ -45,13 +45,21 @@ The EVM is a quasi–Turing-complete state machine:
 ```
  
 - "quasi" because all execution processes are limited to a finite number of computational steps by the amount of gas available for any given smart contract execution.
-  - [Gas is used to solve the Turing complete state, halting problem](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc),
+  - [Gas is used to solve the Turing complete state, halting problem](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc#turing-completeness-and-gas),
 - As such, the halting problem is "solved" (all program executions will halt) and the situation where execution might (accidentally or maliciously) run forever, thus bringing the Ethereum platform to halt in its entirety, is avoided.
 
+## 📚 The stack
+
 ```yml
-The stack:
+The EVM has a stack-based architecture, storing all in-memory values on a stack:
 ```
+
 - It has a maximum size of 1024 elements and contains words of 256 bits.
+- It works with a word size of 256 bits (mainly to facilitate native hashing and elliptic curve operations) and has several addressable data components.
+  - An immutable program code ROM, loaded with the bytecode of the smart contract to be executed
+  - A volatile memory, with every location explicitly initialized to zero
+  - A permanent storage that is part of the Ethereum state, also zero-initialized
+- There is also a set of environment variables and data that is available during execution.
 
 ```yml
 Access to the stack is limited to the top end in the following way:
