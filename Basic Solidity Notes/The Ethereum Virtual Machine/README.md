@@ -34,8 +34,9 @@ The EVM has:
 | [7,500 ethereum nodes](https://etherscan.io/nodetracker) | 
 | :---: | 
   
-  - The ethereum nodes use an Execution Client with the [Instruction Set](https://docs.soliditylang.org/en/latest/yul.html#opcodes), [Inline Assembly](https://docs.soliditylang.org/en/latest/assembly.html), and Solidity comprised of basic static data types ( booleans, integers, addresses, etc.) to come to, a consensus as to how, and what the world's CPU computes.
-  - Each node must run both a consensus client, and an execution client
+  - The ethereum nodes use an Execution Client with the [Instruction Set](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc#the-evm-instruction-set-bytecode-operations), [Inline Assembly](https://docs.soliditylang.org/en/latest/assembly.html), and Solidity comprised of basic static data types ( booleans, integers, addresses, etc.) to come to, a consensus as to how, and what to change in the [ethereum world state](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc#ethereum-state).
+  - Each node must run both a consensus client, and an execution client.
+  - [All nodes must come to consensus](https://github.com/ethereumbook/ethereumbook/blob/develop/14consensus.asciidoc#consensus), 
 
 ## 🗜 Setting limits
 
