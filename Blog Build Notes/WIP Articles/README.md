@@ -52,13 +52,18 @@ If you are interested in becoming a cryptocurrency trader, you're more than like
 Your keys, your coins! Most are open-source and you are free to inspect the code if you feel the need to do so. 
 
 ## Access your wallet
+
+<img alt="hardware wallet image" src="https://user-images.githubusercontent.com/104662990/203898777-427c63e2-0f23-4c58-8ed5-651e240daa1e.png">
+
 Bitcoin wallets, Ethereum wallets, do wallets offer multi-blockchain options for storing cryptocurrencies long term while my private keys are completely secure?
 
 Yes, some wallets offer multiple options for storing different cryptocurrencies.
 
-Keeping your secret passphrase safe and secure is essential to the security of your crypto wallets. While this can be a difficult task, there are many ways you can do it. One way is to make sure that you have the passphrase stored in a fireproof manner, at multiple locations.
+Keeping your secret seed phrase safe and secure is essential to the security of your crypto wallets. While this can be a difficult task, there are many ways you can do it. One way is to make sure that you have the passphrase stored in a fireproof manner, at multiple locations.
 
 ## Top Hardware Crypto Wallets
+
+<img alt="hardware wallet image" src="https://user-images.githubusercontent.com/104662990/203898448-092cf18a-da03-4fbc-8de3-3bef2608e93b.png">
 
 The two most popular types of hardware wallets are the Ledger Nano S and Trezor One.
 
