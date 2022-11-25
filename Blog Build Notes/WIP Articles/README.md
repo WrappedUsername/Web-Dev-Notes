@@ -21,14 +21,10 @@ Another vital function your wallet serves is to sign messages or transactions, y
 There are a few categories for finding the best type of wallet to store your crypto coins and tokens, those are:
 
 - hot wallets
-  - online wallet
-    - defi wallet
-      - open-source software wallet 
+  - online wallet 
     - custodial wallets
-      - coinbase wallet 
   - desktop wallet
-    - defi wallet
-      - open-source software wallet 
+    - defi wallets
   - mobile wallet
 - cold storage wallets
   - hardware wallets
@@ -40,7 +36,10 @@ Also known as “cold storage”, cryptocurrency hardware wallets, a physical de
 Hardware wallets are considered to be the most secure way of storing your cryptocurrency. Hardware wallets are not connected to the internet, so they can’t be hacked remotely. With the increasing popularity of cryptocurrency, hardware wallets are becoming one of the best ways to store your digital currency. A hardware wallet is a physical device that stores your private keys and public keys on a secure chip. It is like a USB drive with a screen, which you can use to send or receive cryptocurrency.
 
 ## Software Crypto Wallets
-Also known as “hot wallets”, can use a mobile app
+
+Also known as “hot wallets”, these can be a mobile app, be a wallet online (usually these are custodial), or a desktop app. 
+
+Software wallets are generally considered less secure than a hardware wallet, but if used correctly they are just as secure as the digital money in your bank down the street. It would take some serious hacking to breaking into a correctly used software wallet.
 
 ## Custodial Wallets
 Think of centralized trading platforms, not your keys, not your coins. FTX, Terra Luna, etc. a lot of people found out the hard way that when these centralized trading platforms crashed and burned, they froze withdraws and you lost access to your coins in their custodial wallet.
@@ -50,7 +49,7 @@ These centralized platforms can also be hacked and there is no regulation for th
 If you are interested in becoming a cryptocurrency trader, you're more than likely thinking of using a centralized exchange, as I am sure we all have. I have used a few centralized platforms myself and although I did not lose any crypto I did get locked out of a couple of them. Decentralized exchanges offer an alternative solution because the trades happen peer-to-peer and the risk of hacking is reduced.
 
 ## DeFi Wallet
-Your keys, your coins!
+Your keys, your coins! Most are open-source and you are free to inspect the code if you feel the need to do so. 
 
 ## Access your wallet
 Bitcoin wallets, Ethereum wallets, do wallets offer multi-blockchain options for storing cryptocurrencies long term while my private keys are completely secure?
@@ -74,6 +73,14 @@ These may be popular, but are they the most secure with the most advanced, robus
 - Keystone Hardware Wallet (formerly Cobo Vault)  
 
 ## Top Software Crypto Wallets
-Also known as “hot wallets”
+
+The most popular software wallet currently is MetaMask, but with exciting new wallets emerging every day, MetaMask will need to continue to innovate to survive the new competition. 
+
+- Ambire Wallet
+- TODO
+- TODO
+- TODO
+- TODO
+- Coinbase Wallet 
 
 ## In Conclusion
