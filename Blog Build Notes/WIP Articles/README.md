@@ -35,7 +35,9 @@ There are a few categories for finding the best type of wallet to store your cry
   - paper wallet
 
 ## Hardware Crypto Wallets
-Also known as “cold storage”
+Also known as “cold storage”, cryptocurrency hardware wallets, a physical device that stores your private keys and cryptocurrency.
+
+Hardware wallets are considered to be the most secure way of storing your cryptocurrency. Hardware wallets are not connected to the internet, so they can’t be hacked remotely. With the increasing popularity of cryptocurrency, hardware wallets are becoming one of the best ways to store your digital currency. A hardware wallet is a physical device that stores your private keys and public keys on a secure chip. It is like a USB drive with a screen, which you can use to send or receive cryptocurrency.
 
 ## Software Crypto Wallets
 Also known as “hot wallets”, can use a mobile app
@@ -58,9 +60,6 @@ Yes, some wallets offer multiple options for storing different cryptocurrencies.
 Keeping your secret passphrase safe and secure is essential to the security of your crypto wallets. While this can be a difficult task, there are many ways you can do it. One way is to make sure that you have the passphrase stored in a fireproof manner, at multiple locations.
 
 ## Top Hardware Crypto Wallets
-Also known as “cold storage”, cryptocurrency hardware wallets, a physical device that stores your private keys and cryptocurrency.
-
-Hardware wallets are considered to be the most secure way of storing your cryptocurrency. Hardware wallets are not connected to the internet, so they can’t be hacked remotely. With the increasing popularity of cryptocurrency, hardware wallets are becoming one of the best ways to store your digital currency. A hardware wallet is a physical device that stores your private keys and public keys on a secure chip. It is like a USB drive with a screen, which you can use to send or receive cryptocurrency.
 
 The two most popular types of hardware wallets are the Ledger Nano S and Trezor One.
 
