@@ -1,0 +1,80 @@
+# Best Crypto Wallets 2023? Search the Top Crypto Wallets.
+
+<img alt="type of wallet image" src="https://user-images.githubusercontent.com/104662990/203888914-2eff3d0c-f7fa-4323-be83-e26ffc878709.jpg">
+
+## Introduction: Choosing the Best Crypto Wallet for You
+
+Today we are exploring the best cryptocurrency wallets available or will become available sometime in 2023.
+
+We will also find the safest crypto wallet with the highest level of security, according to the specific features of the wallet. Crypto wallets are one of the most important technologies when it comes to blockchain technology. With a crypto wallet, you can send and receive cryptocurrencies, but your wallet also holds your NFTs.
+
+NFTs or Non-Fungible Tokens exist on the Ethereum blockchain and other blockchains like Solana, Tezos, etc. NFTs can be collected and saved in your wallet which is why they need the wallet technology to participate in web3 and blockchain technologies like NFTs.
+
+## Why Do I Need a Crypto Wallet?
+To use cryptocurrencies or use web3 technologies, one has to have a crypto wallet. 
+
+A crypto wallet is a software program or physical hardware that stores private/public keys to facilitate the sending and receiving of cryptocurrency. Private keys are stored by the user in various safe locations, while public keys are shared with others so they can send funds to your wallet. This is a lot like how PayPal uses your email address as a "public key” to share with others to send funds over PayPal.
+
+Another vital function your wallet serves is to sign messages or transactions, you will also use your wallet to connect to web3 DApps, like an NFT minting DApp perhaps /*link*/.
+
+## How to choose between all the different types of cryptocurrency wallets
+There are a few categories for finding the best type of wallet to store your crypto coins and tokens, those are:
+
+- hot wallets
+  - online wallet
+    - defi wallet
+      - open-source software wallet 
+    - custodial wallets
+      - coinbase wallet 
+  - desktop wallet
+    - defi wallet
+      - open-source software wallet 
+  - mobile wallet
+- cold storage wallets
+  - hardware wallets
+  - paper wallet
+
+## Hardware Crypto Wallets
+Also known as “cold storage”
+
+## Software Crypto Wallets
+Also known as “hot wallets”, can use a mobile app
+
+## Custodial Wallets
+Think of centralized trading platforms, not your keys, not your coins. FTX, Terra Luna, etc. a lot of people found out the hard way that when these centralized trading platforms crashed and burned, they froze withdraws and you lost access to your coins in their custodial wallet.
+
+These centralized platforms can also be hacked and there is no regulation for these centralized crypto exchanges to cover you if your assets are lost.
+
+If you are interested in becoming a cryptocurrency trader, you're more than likely thinking of using a centralized exchange, as I am sure we all have. I have used a few centralized platforms myself and although I did not lose any crypto I did get locked out of a couple of them. Decentralized exchanges offer an alternative solution because the trades happen peer-to-peer and the risk of hacking is reduced.
+
+## DeFi Wallet
+Your keys, your coins!
+
+## Access your wallet
+Bitcoin wallets, Ethereum wallets, do wallets offer multi-blockchain options for storing cryptocurrencies long term while my private keys are completely secure?
+
+Yes, some wallets offer multiple options for storing different cryptocurrencies.
+
+Keeping your secret passphrase safe and secure is essential to the security of your crypto wallets. While this can be a difficult task, there are many ways you can do it. One way is to make sure that you have the passphrase stored in a fireproof manner, at multiple locations.
+
+## Top Hardware Crypto Wallets
+Also known as “cold storage”, cryptocurrency hardware wallets, a physical device that stores your private keys and cryptocurrency.
+
+Hardware wallets are considered to be the most secure way of storing your cryptocurrency. Hardware wallets are not connected to the internet, so they can’t be hacked remotely. With the increasing popularity of cryptocurrency, hardware wallets are becoming one of the best ways to store your digital currency. A hardware wallet is a physical device that stores your private keys and public keys on a secure chip. It is like a USB drive with a screen, which you can use to send or receive cryptocurrency.
+
+The two most popular types of hardware wallets are the Ledger Nano S and Trezor One.
+
+Hardware wallets are becoming more popular as a storage method for cryptocurrency. There are many types of hardware wallets, but some of the most popular ones are Ledger, Trezor, and KeepKey.
+
+- Ledger is a French company that created the first-ever cryptocurrency hardware wallet. The company was founded in 2014 and it is based in Paris.
+- Trezor was one of the first companies to create a Bitcoin wallet with a screen and they were also one of the first ever to produce a hardware wallet. They were founded in 2013 and they are based in Prague, Czech Republic.
+- KeepKey is an American-based company that has been producing hardware wallets since 2015. They are based in Seattle, Washington, and their motto is “Securing digital currency assets”.
+
+These may be popular, but are they the most secure with the most advanced, robust military grade security features? When compared to this hardware wallet all others seem to be lacking in the same security features.
+
+- Keystone Hardware Wallet (formerly Cobo Vault)  
+
+## Top Software Crypto Wallets
+Also known as “hot wallets”
+
+## In Conclusion
