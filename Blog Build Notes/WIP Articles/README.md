@@ -69,26 +69,29 @@ The two most popular types of hardware wallets are the Ledger Nano S and Trezor 
 
 Hardware wallets are becoming more popular as a storage method for cryptocurrency. There are many types of hardware wallets, but some of the most popular ones are Ledger, Trezor, and KeepKey.
 
-## [Ledger](https://shop.ledger.com/?r=d83717285958) 
+## [Ledger Live, "one place for all your crypto needs"](https://shop.ledger.com/?r=d83717285958) 
 
-<a href="https://shop.ledger.com/pages/ledger-nano-s-plus/?r=d83717285958"><img width=728 height=90 src="http://affiliate.ledger.com/image/728/90/Default"></a>
+<a href="https://shop.ledger.com/pages/ledger-nano-s-plus/?r=d83717285958"><img width=728 height=90 src="http://affiliate.ledger.com/image/728/90/Default" alt="ad link"></a>
+
+TODO explain Ledger Live
 
 A French company that created the first-ever cryptocurrency hardware wallet. The company was founded in 2014 and it is based in Paris.
 
-## Trezor 
+## Trezor, "the safe place for your coins"
 
 Was one of the first companies to create a Bitcoin wallet with a screen and they were also one of the first ever to produce a hardware wallet. They were founded in 2013 and they are based in Prague, Czech Republic.
 
-## KeepKey 
+## KeepKey, "the premier wallet"
 
 An American-based company that has been producing hardware wallets since 2015. They are based in Seattle, Washington.
 
-These may be popular, but are they the most secure with the most advanced, robust military grade security features? When compared to this hardware wallet all others seem to be lacking in the same security features.
+- These may be popular, but are they the most secure with the most advanced, robust military grade security features? When compared to this hardware wallet all others seem to be lacking in the same security features.
 
 ## [Keystone, "the most powerful hardware wallet"](https://shop.keyst.one/?rfsn=6991939.6a0d16&utm_source=refersion&utm_medium=affiliate&utm_campaign=6991939.6a0d16) 
 
 It's nice to know there is a hardware wallet with that much security, but that does not mean the others are any less secure! If used properly most wallets are very secure, even hot wallets.
-There are a lot of new amazing wallets that are extremely capable, secure, and feature rich, and they are.
+
+- There are a lot of new amazing wallets that are extremely capable, secure, and feature rich, and they are.
 
 ## CoolWallet, "a new kind of hardware wallet"
 
@@ -96,7 +99,13 @@ TODO
 
 ## [SafePal, "own your crypto adventure"](https://store.safepal.com/safepal-s1-hardware-wallet.html?ref=keefeoverby1)
 
-<a href="https://store.safepal.io/safepal-s1-hardware-wallet.html?ref=keefeoverby1&tap_a=117496-bfa782" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/62fb752427020487925403.png?a=117496-bfa782&s=3270263-d3b274" border="0"></a>
+<a href="https://store.safepal.io/safepal-s1-hardware-wallet.html?ref=keefeoverby1&tap_a=117496-bfa782" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/62fb752427020487925403.png?a=117496-bfa782&s=3270263-d3b274" alt="ad link" border="0"></a>
+
+TODO
+
+## [BitBox02, "your coins are safe, with you"](https://shiftcrypto.ch/bitbox02/?ref=0zQQGjBlnA)
+
+<a href="https://shiftcrypto.ch/bitbox02/?ref=0zQQGjBlnA" target="_blank"><img src="https://shiftcrypto.ch/assets/friends/bitbox02-700x394.png" alt="ad link" /></a>
 
 TODO
 
