@@ -69,7 +69,11 @@ The two most popular types of hardware wallets are the Ledger Nano S and Trezor 
 
 Hardware wallets are becoming more popular as a storage method for cryptocurrency. There are many types of hardware wallets, but some of the most popular ones are Ledger, Trezor, and KeepKey.
 
-- Ledger is a French company that created the first-ever cryptocurrency hardware wallet. The company was founded in 2014 and it is based in Paris.
+## [Ledger](https://shop.ledger.com/?r=d83717285958) 
+
+<a href="https://shop.ledger.com/pages/ledger-nano-s-plus/?r=d83717285958"><img width=728 height=90 src="http://affiliate.ledger.com/image/728/90/Default"></a>
+
+A French company that created the first-ever cryptocurrency hardware wallet. The company was founded in 2014 and it is based in Paris.
 - Trezor was one of the first companies to create a Bitcoin wallet with a screen and they were also one of the first ever to produce a hardware wallet. They were founded in 2013 and they are based in Prague, Czech Republic.
 - KeepKey is an American-based company that has been producing hardware wallets since 2015. They are based in Seattle, Washington, and their motto is “Securing digital currency assets”.
 
