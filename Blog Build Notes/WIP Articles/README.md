@@ -99,7 +99,7 @@ TODO
 
 ## [SafePal, "own your crypto adventure"](https://store.safepal.com/safepal-s1-hardware-wallet.html?ref=keefeoverby1)
 
-<a href="https://store.safepal.io/safepal-s1-hardware-wallet.html?ref=keefeoverby1&tap_a=117496-bfa782" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/62fb752427020487925403.png?a=117496-bfa782&s=3270263-d3b274" alt="ad link" border="0"></a>
+<a href="https://store.safepal.io/safepal-s1-hardware-wallet.html?ref=keefeoverby1&tap_a=117500-6683ed" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/62fb755d2b0d2580812114.png?a=117500-6683ed&s=3270263-d3b274" border="0"></a>
 
 TODO
 
