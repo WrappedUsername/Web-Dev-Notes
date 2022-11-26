@@ -74,12 +74,31 @@ Hardware wallets are becoming more popular as a storage method for cryptocurrenc
 <a href="https://shop.ledger.com/pages/ledger-nano-s-plus/?r=d83717285958"><img width=728 height=90 src="http://affiliate.ledger.com/image/728/90/Default"></a>
 
 A French company that created the first-ever cryptocurrency hardware wallet. The company was founded in 2014 and it is based in Paris.
-- Trezor was one of the first companies to create a Bitcoin wallet with a screen and they were also one of the first ever to produce a hardware wallet. They were founded in 2013 and they are based in Prague, Czech Republic.
-- KeepKey is an American-based company that has been producing hardware wallets since 2015. They are based in Seattle, Washington, and their motto is “Securing digital currency assets”.
+
+## Trezor 
+
+Was one of the first companies to create a Bitcoin wallet with a screen and they were also one of the first ever to produce a hardware wallet. They were founded in 2013 and they are based in Prague, Czech Republic.
+
+## KeepKey 
+
+An American-based company that has been producing hardware wallets since 2015. They are based in Seattle, Washington.
 
 These may be popular, but are they the most secure with the most advanced, robust military grade security features? When compared to this hardware wallet all others seem to be lacking in the same security features.
 
-- Keystone Hardware Wallet (formerly Cobo Vault)  
+## [Keystone Hardware Wallet (formerly Cobo Vault)](https://shop.keyst.one/?rfsn=6991939.6a0d16&utm_source=refersion&utm_medium=affiliate&utm_campaign=6991939.6a0d16) 
+
+It's nice to know there is a hardware wallet with that much security, but that does not mean the others are any less secure! If used properly most wallets are very secure, even hot wallets.
+There are a lot of new amazing wallets that are extremely capable, secure, and feature rich, and they are.
+
+## CoolWallet, a new kind of hardware wallet
+
+TODO
+
+## [SafePal, own your crypto adventure](https://store.safepal.com/safepal-s1-hardware-wallet.html?ref=keefeoverby1)
+
+<a href="https://store.safepal.io/safepal-s1-hardware-wallet.html?ref=keefeoverby1&tap_a=117496-bfa782" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/62fb752427020487925403.png?a=117496-bfa782&s=3270263-d3b274" border="0"></a>
+
+TODO
 
 ## Top Software Crypto Wallets
 
