@@ -107,6 +107,17 @@ TODO
 
 <a href="https://shiftcrypto.ch/bitbox02/?ref=0zQQGjBlnA" target="_blank"><img src="https://shiftcrypto.ch/assets/friends/bitbox02-700x394.png" width="700" height="394" alt="" /></a>
 
+TODO
+
+## SecuX
+
+TODO
+
+## [Ellipal](https://www.ellipal.com/?rfsn=6991972.7193fa)
+
+TODO
+
+## NGRAVE, "eternally yours"
 
 TODO
 
