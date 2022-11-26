@@ -17,6 +17,8 @@ A crypto wallet is a software program or physical hardware that stores private/p
 
 Another vital function your wallet serves is to sign messages or transactions, you will also use your wallet to connect to web3 DApps, like this [NFT minting DApp](https://foam-chunk-smudge.vercel.app/) I built this year.
 
+<img alt="choose a wallet" src="https://user-images.githubusercontent.com/104662990/204112726-ebc540f4-226c-46e8-98fa-67425016b403.png">
+
 ## How to choose between all the different types of cryptocurrency wallets
 There are a few categories for finding the best type of wallet to store your crypto coins and tokens, those are:
 
@@ -71,7 +73,7 @@ Hardware wallets are becoming more popular as a storage method for cryptocurrenc
 
 ## [Ledger Live, "one place for all your crypto needs"](https://shop.ledger.com/?r=d83717285958) 
 
-<a href="https://shop.ledger.com/pages/ledger-nano-s-plus/?r=d83717285958"><img width=728 height=90 src="http://affiliate.ledger.com/image/728/90/Default" alt="ad link"></a>
+<a href="https://shop.ledger.com/pages/ledger-nano-s-plus/?r=d83717285958" target="_blank"><img width=728 height=90 src="http://affiliate.ledger.com/image/728/90/Default" alt="ad link"></a>
 
 TODO explain Ledger Live
 
@@ -99,13 +101,13 @@ TODO
 
 ## [SafePal, "own your crypto adventure"](https://store.safepal.com/safepal-s1-hardware-wallet.html?ref=keefeoverby1)
 
-<a href="https://store.safepal.io/safepal-s1-hardware-wallet.html?ref=keefeoverby1&tap_a=117500-6683ed" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/62fb755d2b0d2580812114.png?a=117500-6683ed&s=3270263-d3b274" border="0"></a>
+<a href="https://store.safepal.io/safepal-s1-hardware-wallet.html?ref=keefeoverby1&tap_a=117500-6683ed" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/62fb755d2b0d2580812114.png?a=117500-6683ed&s=3270263-d3b274" alt="ad link" border="0"></a>
 
 TODO
 
 ## [BitBox02, "your coins are safe, with you"](https://shiftcrypto.ch/bitbox02/?ref=0zQQGjBlnA)
 
-<a href="https://shiftcrypto.ch/bitbox02/?ref=0zQQGjBlnA" target="_blank"><img src="https://shiftcrypto.ch/assets/friends/bitbox02-700x394.png" width="700" height="394" alt="" /></a>
+<a href="https://shiftcrypto.ch/bitbox02/?ref=0zQQGjBlnA" target="_blank"><img src="https://shiftcrypto.ch/assets/friends/bitbox02-700x394.png" width="700" height="394" alt="ad link" /></a>
 
 TODO
 
