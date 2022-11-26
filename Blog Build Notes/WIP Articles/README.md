@@ -85,16 +85,16 @@ An American-based company that has been producing hardware wallets since 2015. T
 
 These may be popular, but are they the most secure with the most advanced, robust military grade security features? When compared to this hardware wallet all others seem to be lacking in the same security features.
 
-## [Keystone Hardware Wallet (formerly Cobo Vault)](https://shop.keyst.one/?rfsn=6991939.6a0d16&utm_source=refersion&utm_medium=affiliate&utm_campaign=6991939.6a0d16) 
+## [Keystone, "the most powerful hardware wallet"](https://shop.keyst.one/?rfsn=6991939.6a0d16&utm_source=refersion&utm_medium=affiliate&utm_campaign=6991939.6a0d16) 
 
 It's nice to know there is a hardware wallet with that much security, but that does not mean the others are any less secure! If used properly most wallets are very secure, even hot wallets.
 There are a lot of new amazing wallets that are extremely capable, secure, and feature rich, and they are.
 
-## CoolWallet, a new kind of hardware wallet
+## CoolWallet, "a new kind of hardware wallet"
 
 TODO
 
-## [SafePal, own your crypto adventure](https://store.safepal.com/safepal-s1-hardware-wallet.html?ref=keefeoverby1)
+## [SafePal, "own your crypto adventure"](https://store.safepal.com/safepal-s1-hardware-wallet.html?ref=keefeoverby1)
 
 <a href="https://store.safepal.io/safepal-s1-hardware-wallet.html?ref=keefeoverby1&tap_a=117496-bfa782" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/62fb752427020487925403.png?a=117496-bfa782&s=3270263-d3b274" border="0"></a>
 
