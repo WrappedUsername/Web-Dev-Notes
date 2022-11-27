@@ -87,13 +87,65 @@ Was one of the first companies to create a Bitcoin wallet with a screen and they
 
 An American-based company that has been producing hardware wallets since 2015. They are based in Seattle, Washington.
 
-- These may be popular, but are they the most secure with the most advanced, robust military grade security features? When compared to this hardware wallet all others seem to be lacking in the same security features.
+## 🔒 Safe and Secure
 
-## [Keystone, "the most powerful hardware wallet"](https://shop.keyst.one/?rfsn=6991939.6a0d16&utm_source=refersion&utm_medium=affiliate&utm_campaign=6991939.6a0d16) 
+These may be popular, but are they the most secure with the most advanced, robust security features? When compared to these hardware wallets all others seem to be lacking in the same security features.
+
+What are these security features?
+
+## Common Criteria Evaluation Assurance Level [cisa.gov](https://www.cisa.gov/uscert/bsi/articles/best-practices/requirements-engineering/the-common-criteria)
+
+There are seven Evaluation Assurance Levels (EALs). The higher the level, the more confidence you can have that the security functional requirements have been met. The levels are as follows:
+
+- EAL1: Functionally Tested. Applies when you require confidence in a product's correct operation, but do not view threats to security as serious. An evaluation at this level should provide evidence that the target of evaluation functions in a manner consistent with its documentation and that it provides useful protection against identified threats.
+
+- EAL2: Structurally Tested. Applies when developers or users require low to moderate independently assured security but the complete development record is not readily available. This situation may arise when there is limited developer access or when there is an effort to secure legacy systems.
+
+- EAL3: Methodically Tested and Checked. Applies when developers or users require a moderate level of independently assured security and require a thorough investigation of the target of evaluation and its development, without substantial reengineering.
+
+- EAL4: Methodically Designed, Tested, and Reviewed. Applies when developers or users require moderate to high independently assured security in conventional commodity products and are prepared to incur additional security-specific engineering costs.
+
+- EAL5: Semi-Formally Designed and Tested. Applies when developers or users require high, independently assured security in a planned development and require a rigorous development approach that does not incur unreasonable costs from specialist security engineering techniques.
+
+- EAL6: Semi-Formally Verified Design and Tested. Applies when developing security targets of evaluation for application in high-risk situations where the value of the protected assets justifies the additional costs.
+
+- EAL7: Formally Verified Design and Tested. Applies to the development of security targets of evaluation for application in extremely high-risk situations, as well as when the high value of the assets justifies the higher costs
+
+## NGRAVE, "eternally yours"
+
+<img alt="hardware wallet image" src="https://user-images.githubusercontent.com/104662990/204116663-bd3f6077-dcf0-4dd4-82ec-db35978fcbba.png">
+
+EAL 7
+
+## [Keystone, "the most powerful hardware wallet"](https://shop.keyst.one/?rfsn=6991939.6a0d16&utm_source=refersion&utm_medium=affiliate&utm_campaign=6991939.6a0d16)
+
+<img alt="hardware wallet image" src="https://user-images.githubusercontent.com/104662990/204116749-7eb8c72e-13f0-4d72-bbed-e5f4a1fbd494.png">
+
+Keystone pioneered the industry's first open source hardware wallet project. All of their hardware and firmware designs are open sourced and available online.
+
+- EAL 5+ Secure Element and Open Source
+- A proprietary bank-grade secure element which generates fully random numbers, ensuring your crypto assets are stored in a secured way.
+- Shamir Backup
+  - Keystone supports SLIP39, it enables you to create a Shamir Backup for your recovery phrase.
+- Dice Entropy
+  - Generate your recovery phrase by manually rolling dices, the manual entropy eliminates all trust dependencies on the Secure Element or PRNG (Pseudorandom Number Generator). This also helps with counteracting against the two greatest risks involved with protecting your recovery seed: Theft & Destruction.
+- Verifiable Transactions
+  - Keystone decodes the details of a smart contract transaction and re-organizes it into a humanly readable format. This will allow you to verify your transaction within minutes via the device's 4-inch touchscreen and prevent you from signing any malicious transaction. 
+- Secure Your Sensitive Information
+  - A built-in self-destruction mechanism will activate and thwart any attempts of physical tampering of your device. All sensitive information including your recovery phrase and private keys will be wiped as soon as the device detects any sort of physical dissembling.
+- Protection from Supply-Chain Attacks
+Supply chain attacks are one of the most serious security threats for hardware wallets because they target vulnerabilities in the logistics process and can happen without anyone's knowledge. Keystone's Web Authentication process will give assurance that your device has not fallen victim to any sort of supply chain attack, for example device tampering.
+- Your Shipping Information is Never Revealed
+  - They understand how sensitive physical address information can be for crypto hodlers and respect the individual privacy needs of each one of our customers.
+- All shipping information is automatically deleted 180 days after your order is placed. You can also request to have it deleted immediately after your device is delivered by contacting them at support@keyst.one
+
+👍 Nice!
+
+## 🔒 Safe, Secure, and really cool
 
 It's nice to know there is a hardware wallet with that much security, but that does not mean the others are any less secure! If used properly most wallets are very secure, even hot wallets.
 
-- There are a lot of new amazing wallets that are extremely capable, secure, and feature rich, and they are.
+There are a lot of new amazing wallets that are extremely capable, secure, and feature rich, and they are.
 
 ## CoolWallet, "a new kind of hardware wallet"
 
@@ -116,10 +168,6 @@ TODO
 TODO
 
 ## [Ellipal](https://www.ellipal.com/?rfsn=6991972.7193fa)
-
-TODO
-
-## NGRAVE, "eternally yours"
 
 TODO
 
