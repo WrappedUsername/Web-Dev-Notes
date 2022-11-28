@@ -4,7 +4,7 @@
 
 ## Introduction: Choosing the Best Crypto Wallet for You
 
-Today we are exploring the best cryptocurrency wallets available or will become available sometime in 2023.
+Today we are doing a deep dive, exploring the best cryptocurrency wallets available or will become available sometime in 2023.
 
 We will also find the safest crypto wallet with the highest level of security, according to the specific features of the wallet. Crypto wallets are one of the most important technologies when it comes to blockchain technology. With a crypto wallet, you can send and receive cryptocurrencies, but your wallet also holds your NFTs.
 
