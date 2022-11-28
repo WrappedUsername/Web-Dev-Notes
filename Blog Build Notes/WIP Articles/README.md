@@ -15,7 +15,7 @@ To use cryptocurrencies or use web3 technologies, one has to have a crypto walle
 
 A crypto wallet is a software program or physical hardware that stores private/public keys to facilitate the sending and receiving of cryptocurrency. Private keys are stored by the user in various safe locations (hopefully), while public keys are shared with others so they can send funds to your wallet. This is a lot like how PayPal uses your email address as a "public key” to share with others to send funds over PayPal.
 
-Another vital function your wallet serves is to sign messages or transactions, you will also use your wallet to connect to web3 DApps, like this [NFT minting dApp](https://foam-chunk-smudge.vercel.app/) I built this year.
+Another vital function your wallet serves is to sign messages or transactions, you will also use your wallet to connect to web3 dApps, like this [NFT minting dApp](https://foam-chunk-smudge.vercel.app/) I built this year.
 
 <img alt="choose a wallet" src="https://user-images.githubusercontent.com/104662990/204112726-ebc540f4-226c-46e8-98fa-67425016b403.png">
 
