@@ -6,9 +6,9 @@
 
 Today we are doing a deep dive, exploring the best cryptocurrency wallets available or will become available sometime in 2023.
 
-We will also find the safest crypto wallet with the highest level of security, according to the specific features of the wallet. Crypto wallets are one of the most important technologies when it comes to blockchain technology. With a crypto wallet, you can send and receive cryptocurrencies, but your wallet also holds your NFTs.
+We will also find the safest crypto wallet with the highest level of security, according to the specific features of the wallet. I will show my top picks for the most secure wallets with this trophy. 🏆 
 
-NFTs or Non-Fungible Tokens exist on the Ethereum blockchain and other blockchains like Solana, Tezos, etc. NFTs can be collected and saved in your wallet which is why they need the wallet technology to participate in web3 and blockchain technologies like NFTs.
+Crypto wallets are one of the most important technologies when it comes to blockchain technology. With a crypto wallet, you can send and receive cryptocurrencies, but your wallet also holds your NFTs. NFTs or Non-Fungible Tokens exist on the Ethereum blockchain and other blockchains like Solana, Tezos, etc. NFTs can be collected and saved in your wallet which is why they need the wallet technology to participate in web3 and blockchain technologies like NFTs.
 
 ## Why Do I Need a Crypto Wallet?
 To use cryptocurrencies or use web3 technologies, one has to have a crypto wallet. 
@@ -155,19 +155,41 @@ The levels are as follows:
 
 - EAL7: Formally Verified Design and Tested. Applies to the development of security targets of evaluation for application in extremely high-risk situations, as well as when the high value of the assets justifies the higher costs.
 
-## NGRAVE, "eternally yours"
+## 🏆 NGRAVE, "eternally yours"
 
 <img alt="hardware wallet image" src="https://user-images.githubusercontent.com/104662990/204116663-bd3f6077-dcf0-4dd4-82ec-db35978fcbba.png">
 
-EAL 7
+With the NGRAVE ZERO you create your keys and sign transactions with a fully offline device, you get state of the art security with an inuitive interface, to me that is extremly important, because if it is too difficult to use, I won't want to learn how to use it, I am busy like everyone else! I don't have time to learn all that.
 
-## [Keystone, "the most powerful hardware wallet"](https://shop.keyst.one/?rfsn=6991939.6a0d16&utm_source=refersion&utm_medium=affiliate&utm_campaign=6991939.6a0d16)
+Plus simple and easy will always be more secure, because there are less mistakes to be made!
+
+```yml
+Common Criteria EAL7:
+```
+- Highest level of security in the blockchain & financial industry, this is a true claim
+- Impenetrable by design, anti-tampering protection against physical attacks
+- Biometric & light sensor, enhanced security by light, fingerprint & QR scanning
+- Generate and protect your keys offline, ZERO is fully "air-gapped", it does not rely on USB or any network connection capability such as WiFi, Bluetooth, NFC, or 4G. 
+  - All communication takes place via transparent QR codes.
+
+```yml
+The 4" touchscreen makes it:
+```
+- Easy to tap and swipe the huge screen, giving you control over multiple wallets
+
+## 🏆 Arculus, "crypto and NFT security made simple"
+
+<img alt="arculus wallet image" src="https://user-images.githubusercontent.com/104662990/204362256-7668e82e-d321-40d6-b18b-615ee9fd87db.png">
+
+- EAL6+
+
+## 🏆 [Keystone, "the most powerful hardware wallet"](https://shop.keyst.one/?rfsn=6991939.6a0d16&utm_source=refersion&utm_medium=affiliate&utm_campaign=6991939.6a0d16)
 
 <img alt="hardware wallet image" src="https://user-images.githubusercontent.com/104662990/204116749-7eb8c72e-13f0-4d72-bbed-e5f4a1fbd494.png">
 
 Keystone pioneered the industry's first open source hardware wallet project. All of their hardware and firmware designs are open sourced and available online.
 
-- EAL 5+ Secure Element and Open Source
+- EAL5+ Secure Element and Open Source
 - A proprietary bank-grade secure element which generates fully random numbers, ensuring your crypto assets are stored in a secured way.
 - Shamir Backup
   - Keystone supports SLIP39, it enables you to create a Shamir Backup for your recovery phrase.
