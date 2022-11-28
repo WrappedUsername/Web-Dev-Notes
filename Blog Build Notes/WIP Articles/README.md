@@ -15,7 +15,7 @@ To use cryptocurrencies or use web3 technologies, one has to have a crypto walle
 
 A crypto wallet is a software program or physical hardware that stores private/public keys to facilitate the sending and receiving of cryptocurrency. Private keys are stored by the user in various safe locations, while public keys are shared with others so they can send funds to your wallet. This is a lot like how PayPal uses your email address as a "public key” to share with others to send funds over PayPal.
 
-Another vital function your wallet serves is to sign messages or transactions, you will also use your wallet to connect to web3 DApps, like this [NFT minting DApp](https://foam-chunk-smudge.vercel.app/) I built this year.
+Another vital function your wallet serves is to sign messages or transactions, you will also use your wallet to connect to web3 DApps, like this [NFT minting dApp](https://foam-chunk-smudge.vercel.app/) I built this year.
 
 <img alt="choose a wallet" src="https://user-images.githubusercontent.com/104662990/204112726-ebc540f4-226c-46e8-98fa-67425016b403.png">
 
@@ -71,13 +71,25 @@ The two most popular types of hardware wallets are the Ledger Nano S and Trezor 
 
 Hardware wallets are becoming more popular as a storage method for cryptocurrency. There are many types of hardware wallets, but some of the most popular ones are Ledger, Trezor, and KeepKey.
 
-## [Ledger Live, "one place for all your crypto needs"](https://shop.ledger.com/?r=d83717285958) 
+## [Ledger, "one place for all your crypto needs"](https://shop.ledger.com/?r=d83717285958)
 
 <a href="https://shop.ledger.com/pages/ledger-nano-s-plus/?r=d83717285958" target="_blank"><img width=728 height=90 src="http://affiliate.ledger.com/image/728/90/Default" alt="ad link"></a>
 
-TODO explain Ledger Live
+The Ledger Live App, Explore Web3 in one secure app.
 
-A French company that created the first-ever cryptocurrency hardware wallet. The company was founded in 2014 and it is based in Paris.
+Ledger Live is your one-stop shop to buy crypto, grow your assets, and manage NFTs. Join 4+ million people who trust Ledger for everything web3.
+- Track the latest crypto prices
+- Build your crypto knowledge
+- Buy 50+ cryptos and sell Bitcoin
+- Swap 100+ crypto assets
+- Earn rewards and grow your assets
+- Manage 500+ coins and tokens
+- Oversee your NFT collection
+- Access essential DeFi services
+
+Unlock the full Ledger experience by pairing the Ledger Live app with a Ledger hardware wallet. Their wallets are independently certified and designed to resist sophisticated cyber attacks. Secure all your coins, gain peace of mind by securing and managing 35+ coins, including Bitcoin and Ethereum, plus all your tokens and NFTs. Keep your NFTs safe, oversee your collection, manage all your digital assets, and send your NFTs to another wallet with full transparency. Use your favorite dApps, access 15+ web3 apps (dApps) – including 1inch, Paraswap, Lido, and Zerion – and grow your portfolio. 
+
+All in Ledger Live.
 
 ## Trezor, "the safe place for your coins"
 
