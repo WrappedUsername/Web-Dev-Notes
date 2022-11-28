@@ -41,7 +41,7 @@ Hardware wallets are considered to be the most secure way of storing your crypto
 
 ## Software Crypto Wallets
 
-Also known as “hot wallets”, these can be a mobile app, be a wallet online (usually these are custodial), or a desktop app. 
+Also known as “hot wallets”, these can be a mobile app, or a wallet online (usually these are custodial), it could also be a desktop app. 
 
 Software wallets are generally considered less secure than a hardware wallet, but if used correctly they are just as secure as the digital money in your bank down the street. It would take some serious hacking to breaking into a correctly used software wallet.
 
@@ -64,6 +64,10 @@ Bitcoin wallets, Ethereum wallets, do wallets offer multi-blockchain options for
 Yes, some wallets offer multiple options for storing different cryptocurrencies.
 
 Keeping your secret seed phrase safe and secure is essential to the security of your crypto wallets. While this can be a difficult task, there are many ways you can do it. One way is to make sure that you have the passphrase stored in a fireproof manner, at multiple locations.
+
+## 🌱 Keeping your seed phrase safe 🛡
+
+TODO describe seed phrase storage and its importance
 
 ## Top Hardware Crypto Wallets
 
