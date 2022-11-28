@@ -20,7 +20,9 @@ Another vital function your wallet serves is to sign messages or transactions, y
 <img alt="choose a wallet" src="https://user-images.githubusercontent.com/104662990/204112726-ebc540f4-226c-46e8-98fa-67425016b403.png">
 
 ## How to choose between all the different types of cryptocurrency wallets
+```yml
 There are a few categories for finding the best type of wallet to store your crypto coins and tokens, those are:
+```
 
 - hot wallets
   - online wallet 
@@ -93,11 +95,37 @@ All in Ledger Live.
 
 ## Trezor, "the safe place for your coins"
 
-Was one of the first companies to create a Bitcoin wallet with a screen and they were also one of the first ever to produce a hardware wallet. They were founded in 2013 and they are based in Prague, Czech Republic.
+Was one of the first companies to create a Bitcoin wallet with a screen and they were also one of the first ever to produce a hardware wallet. They were founded in 2013 and they are based in Prague, Czech Republic. Trezor hardware wallets are decent in Bitcoin and cryptocurrency security. 
+
+They claim they are the ultimate in hardware wallet security, but in my honest opinion, that's a bold claim compared to the other wallets on this list, but with that said Trezor wallets never expose your digital asset information to an insecure environment connected to the internet. So their security is not bad at all. 
+
+Trezor supports Bitcoin along with the most resilient & proven cryptocurrencies worldwide, your coins are safe, in your Trezor wallet.
 
 ## KeepKey, "the premier wallet"
 
-An American-based company that has been producing hardware wallets since 2015. They are based in Seattle, Washington.
+An American-based company that has been producing hardware wallets since 2015. They are based in Seattle, Washington, KeepKey is the premier wallet in the new ShapeShift Platform, a web-based interface for managing your crypto, now with commission free trading. 
+```yml
+Stress-Free Security: 
+```
+Generate and manage your private keys offline in cold storage, guarded against computer vulnerabilities and viruses, while utilizing wallet software for safe transactions.
+```yml
+Comprehensive Crypto Management:
+```
+Use ShapeShift's intuitive web-based interface to buy, sell, send, receive, trade, track, and hodl your crypto. Trade for free with FOX tokens. 
+Straightforward Backup and Recovery: Each device generates a 12-word recovery sentence during initialization that can be used to retrieve your private keys. Have peace of mind that your funds are secure, even if you lose or break your KeepKey.
+```yml
+Sleek and Simple Display:
+```
+The large display gives clarity to every digital asset sent and received on your device. Each transaction must be manually approved using the confirmation button, giving you control and visibility over your transactions.
+```yml
+Effortless Exchanges:
+```
+Trade crypto commission free with the ShapeShift platform, directly from your wallet.
+- Supports the world’s leading cryptocurrencies, such as Bitcoin, Bitcoin Cash, Ethereum, Litecoin, Dogecoin, Dash, and 46 ERC-20 tokens. We are also continually adding new assets; stay up to date with our latest updates or check our asset support page.
+- KeepKey is a USB HID-class device.
+- KeepKey generates your Bitcoin private key using its hardware-based random number generator, combined with randomness provided by your computer.
+- KeepKey is virus and malware proof; because it does not have an operating system, the layers that viruses, malware, and key loggers infect do not exist on the device.
+- Your private key is stored securely on your KeepKey, never leaving the device. Your KeepKey is PIN-protected, which renders it useless even if it falls into the wrong hands.
 
 ## 🔒 Safe and Secure
 
@@ -107,7 +135,11 @@ What are these security features?
 
 ## Common Criteria Evaluation Assurance Level [cisa.gov](https://www.cisa.gov/uscert/bsi/articles/best-practices/requirements-engineering/the-common-criteria)
 
-There are seven Evaluation Assurance Levels (EALs). The higher the level, the more confidence you can have that the security functional requirements have been met. The levels are as follows:
+There are seven Evaluation Assurance Levels (EALs). The higher the level, the more confidence you can have that the security functional requirements have been met. 
+
+```yml
+The levels are as follows:
+```
 
 - EAL1: Functionally Tested. Applies when you require confidence in a product's correct operation, but do not view threats to security as serious. An evaluation at this level should provide evidence that the target of evaluation functions in a manner consistent with its documentation and that it provides useful protection against identified threats.
 
@@ -121,7 +153,7 @@ There are seven Evaluation Assurance Levels (EALs). The higher the level, the mo
 
 - EAL6: Semi-Formally Verified Design and Tested. Applies when developing security targets of evaluation for application in high-risk situations where the value of the protected assets justifies the additional costs.
 
-- EAL7: Formally Verified Design and Tested. Applies to the development of security targets of evaluation for application in extremely high-risk situations, as well as when the high value of the assets justifies the higher costs
+- EAL7: Formally Verified Design and Tested. Applies to the development of security targets of evaluation for application in extremely high-risk situations, as well as when the high value of the assets justifies the higher costs.
 
 ## NGRAVE, "eternally yours"
 
@@ -155,9 +187,11 @@ Supply chain attacks are one of the most serious security threats for hardware w
 
 ## 🔒 Safe, Secure, and really cool
 
-It's nice to know there is a hardware wallet with that much security, but that does not mean the others are any less secure! If used properly most wallets are very secure, even hot wallets.
+It's nice to know there are hardware wallets with that much security, but that does not mean the others are not secure, they are! If used properly most wallets are very secure, even hot wallets.
 
-There are a lot of new amazing wallets that are extremely capable, secure, and feature rich, and they are.
+```yml
+There are a lot of new amazing wallets that are extremely capable, secure, and feature rich, and they are:
+```
 
 ## CoolWallet, "a new kind of hardware wallet"
 
