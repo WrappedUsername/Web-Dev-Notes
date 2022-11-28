@@ -81,7 +81,7 @@ Hardware wallets are becoming more popular as a storage method for cryptocurrenc
 
 <a href="https://shop.ledger.com/pages/ledger-nano-s-plus/?r=d83717285958" target="_blank"><img width=728 height=90 src="http://affiliate.ledger.com/image/728/90/Default" alt="ad link"></a>
 
-The Ledger Live App, Explore Web3 in one secure app.
+The Ledger Live App, explore web3 in one secure app.
 
 Ledger Live is your one-stop shop to buy crypto, grow your assets, and manage NFTs. Join 4+ million people who trust Ledger for everything web3.
 - Track the latest crypto prices
@@ -133,7 +133,7 @@ Trade crypto commission free with the ShapeShift platform, directly from your wa
 
 ## 🔒 Safe and Secure
 
-These may be popular, but are they the most secure with the most advanced, robust security features? When compared to these hardware wallets all others seem to be lacking in the same security features.
+These may be popular, but are they the most secure with the most advanced, robust security features? When compared to the next hardware wallets, all others seem to be lacking in the same security features.
 
 What are these security features?
 
