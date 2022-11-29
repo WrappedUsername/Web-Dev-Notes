@@ -111,7 +111,7 @@ Are there any other storage solutions like this?
 
 <img alt="seed phrase storge image" src="https://user-images.githubusercontent.com/104662990/204607393-d8f2efad-6043-4da4-a1a6-9246d5e5726f.png">
 
-Yes, there are others that have the small pieces, and some of you might be saying to yourself, well I am not concerned with loosing all of those little pieces that determines my data. Great, if that's what works for you by all means please, do what works for you! Also I do think these seed phrase solutions work, I just don't like this style of storage, if you prefer this kind of solution using anyone of my affiliate links will support the blog, and the content I produce.
+Yes, there are others that have the small pieces, and some of you might be saying to yourself, well I am not concerned with loosing all of those little pieces that determines my data. Great, if that's what works for you by all means please, do what works for you! Also I do think these seed phrase solutions work, I just don't like this style of storage, if you prefer this kind of solutions, please don't hesitate to use my affiliate links because that will support the blog, and the content I produce.
 
 I just want to help you make an informed decision, to cut through all of the advertising warm and fuzzy buzzwords. 
 
