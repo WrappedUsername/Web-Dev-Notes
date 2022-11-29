@@ -63,11 +63,37 @@ Bitcoin wallets, Ethereum wallets, do wallets offer multi-blockchain options for
 
 Yes, some wallets offer multiple options for storing different cryptocurrencies.
 
-Keeping your secret seed phrase safe and secure is essential to the security of your crypto wallets. While this can be a difficult task, there are many ways you can do it. One way is to make sure that you have the passphrase stored in a fireproof manner, at multiple locations.
-
 ## 🌱 Keeping your seed phrase safe 🛡
 
-TODO describe seed phrase storage and its importance
+Keeping your secret seed phrase safe and secure is essential to the security of your crypto assets. While this can be a difficult task, there are many ways you can do it. One way is to make sure that you have the seed phrase stored in a fireproof manner, at multiple locations. 
+
+```yml
+One product stands out as a top pick for me in this regard: 
+```
+
+## Impress Seed  
+
+<img alt="seed phrase storge image" src="https://user-images.githubusercontent.com/104662990/204594671-cfc6e8f6-3577-4400-9fb5-8a83c0e3ebde.png">
+
+Acording to their website, Stamp Seed is a division of ImpressArt, "the world leader in hand stamping tools and supplies". They are
+committed to applying their deep experience in hand-stamping to help people around the world utilize cryptocurrency, DeFi and blockchains with confidence. 
+
+That sounds good to me, but what makes their product special? Why would I want to spend my hard earned money on their product? It's the fact that once the seed phrase has been stamped onto the titanium plate there are no other loose pieces to lose, like many of the other seed phrase storage products available. 
+- Laser etched solid titanium card, no loose pieces such as tiles, rivets, or screws
+- Deep impressions that won't wear away, 3x greater depth than etching or engraving
+- Made of super durable titanium, that can withstand the harshest conditions on Earth, without the loss of data
+
+```yml
+Remember, simple is the ultimate in security, and Stamp Seed has that, unlike some of these options here:
+```
+
+## CryptoSteel 
+
+<img alt="seed phrase storge image" src="https://user-images.githubusercontent.com/104662990/204598753-e1d2d1fe-240b-4939-911b-aaba166ba7b6.png">
+
+Just look at all those little pieces everywhere to make this storage solution work. Don't get me wrongbut what a nightmare this would be if something loosened those screws to secure all of those little pieces, yeah no thanks.
+
+Sorry.
 
 ## Top Hardware Crypto Wallets
 
@@ -255,4 +281,10 @@ The most popular software wallet currently is MetaMask, but with exciting new wa
 - Coinbase Wallet 
 
 ## In Conclusion
+
+This was a search for the best crytpo wallet technology in 2023, but my search was limited by the results Google wanted to show me, if you have found a great wallet that I missed in this search please, leave a comment below and I will get that product into my content.
+
+
+
+
 
