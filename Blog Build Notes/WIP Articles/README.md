@@ -69,7 +69,7 @@ Keeping your secret seed phrase safe and secure is essential to the security of 
 
 - One of the best ways to do this, is to make sure that you have the seed phrase stored in a fireproof manner, at multiple locations.
 
-The seed phrase is so important to your wallet, that even if you need to write it down on a few pieces paper at first to put in different locations, please do so, but for the love of crypto get a solid seed phrase storage solution ASAP. 
+The seed phrase is so important to your wallet, that even if you need to write it down on a few pieces paper (this is called a paper wallet) at first to put in different locations, please do so, but for the love of crypto get a solid seed phrase storage solution ASAP.
 
 ```yml
 One product stands out as a top pick for me in this regard: 
