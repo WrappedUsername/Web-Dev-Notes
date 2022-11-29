@@ -91,9 +91,15 @@ Remember, simple is the ultimate in security, and Stamp Seed has that, unlike so
 
 <img alt="seed phrase storge image" src="https://user-images.githubusercontent.com/104662990/204598753-e1d2d1fe-240b-4939-911b-aaba166ba7b6.png">
 
-Just look at all those little pieces everywhere to make this storage solution work. Don't get me wrongbut what a nightmare this would be if something loosened those screws to secure all of those little pieces, yeah no thanks.
+Just look at all those little pieces everywhere to make this storage solution work. Don't get me wrong this will work, but what a nightmare this would be if something loosened those screws to secure all of those little pieces in the frame of the storage solution, yeah no thanks.
 
-Sorry.
+```yml
+Here is another storage solution from CryptoSteel:
+```
+
+<img alt="seed phrase storge image" src="https://user-images.githubusercontent.com/104662990/204601289-cc987dec-c71d-46d7-b28d-7ae9a4c05130.png">
+
+Once again, even with the added benefit of not being able to read the data in the stack, it's the fact that there is even a slight chance for something to destroy the data because all it takes is for something to loosen the fastener and all those little pieces come loose flying all over the place, bye bye seed phrase, no thanks!
 
 ## Top Hardware Crypto Wallets
 
