@@ -65,13 +65,17 @@ Yes, some wallets offer multiple options for storing different cryptocurrencies.
 
 ## 🌱 Keeping your seed phrase safe 🛡
 
-Keeping your secret seed phrase safe and secure is essential to the security of your crypto assets. While this can be a difficult task, there are many ways you can do it. One way is to make sure that you have the seed phrase stored in a fireproof manner, at multiple locations. 
+Keeping your secret seed phrase safe and secure is essential to the security of your crypto assets. While this may not seem like a difficult task, but there are many ways you can do it, and some are not as secure as my top seed phrase storage pick. 
+
+- One of the best ways to do this, is to make sure that you have the seed phrase stored in a fireproof manner, at multiple locations.
+
+The seed phrase is so important to your wallet, that even if you need to write it down on a few pieces paper at first to put in different locations, please do so, but for the love of crypto get a solid seed phrase storage solution ASAP. 
 
 ```yml
 One product stands out as a top pick for me in this regard: 
 ```
 
-## Impress Seed  
+## 🏆 Impress Seed  
 
 <img alt="seed phrase storge image" src="https://user-images.githubusercontent.com/104662990/204594671-cfc6e8f6-3577-4400-9fb5-8a83c0e3ebde.png">
 
@@ -100,6 +104,31 @@ Here is another storage solution from CryptoSteel:
 <img alt="seed phrase storge image" src="https://user-images.githubusercontent.com/104662990/204601289-cc987dec-c71d-46d7-b28d-7ae9a4c05130.png">
 
 Once again, even with the added benefit of not being able to read the data in the stack, it's the fact that there is even a slight chance for something to destroy the data because all it takes is for something to loosen the fastener and all those little pieces come loose flying all over the place, bye bye seed phrase, no thanks!
+
+Are there any other storage solutions like this? 
+
+## [Ellipal](https://www.ellipal.com/?rfsn=6991972.7193fa)
+
+<img alt="seed phrase storge image" src="https://user-images.githubusercontent.com/104662990/204607393-d8f2efad-6043-4da4-a1a6-9246d5e5726f.png">
+
+Yes, there are others that have the small pieces, and some of you might be saying to yourself, well I am not concerned with loosing all of those little pieces that determines my data. Great, if that's what works for you by all means please, do what works for you! Also I do think these seed phrase solutions work, I just don't like this style of storage, if you prefer this kind of solution using anyone of my affiliate links will support the blog, and the content I produce.
+
+I just want to help you make an informed decision, to cut through all of the advertising warm and fuzzy buzzwords. 
+
+```yml
+With that said here is another one:
+```
+
+## [Keystone, "the most powerful hardware wallet"](https://shop.keyst.one/?rfsn=6991939.6a0d16&utm_source=refersion&utm_medium=affiliate&utm_campaign=6991939.6a0d16)
+
+<img alt="seed phrase storge image" src="https://user-images.githubusercontent.com/104662990/204606120-a263cb00-0fc9-4167-ae8d-a227ed990028.png">
+
+I am a little suprised by this one, because Keystone makes some really nice hardware wallets, as you will see below. 
+
+Are there any others like my top pick Stamp Seed? 
+
+## NGRAVE 
+
 
 ## Top Hardware Crypto Wallets
 
