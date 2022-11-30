@@ -274,6 +274,10 @@ The 4" touchscreen makes it:
 ```
 - Easy to tap and swipe the huge screen, giving you control over multiple wallets
 
+Combine the ZERO with the GRAPHENE and you have the the most GigaChad crypto storage solution available for the year 2023, but who know's what the competition will offer next.
+
+<img alt="hardware wallet image" src="https://user-images.githubusercontent.com/104662990/204851043-bfbde314-3b76-408a-8512-58fb2f4dfd87.png">
+
 ## 🏆 Arculus, "crypto and NFT security made simple"
 
 <img alt="arculus wallet image" src="https://user-images.githubusercontent.com/104662990/204362256-7668e82e-d321-40d6-b18b-615ee9fd87db.png">
