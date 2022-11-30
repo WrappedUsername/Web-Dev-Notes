@@ -119,16 +119,48 @@ I just want to help you make an informed decision, to cut through all of the adv
 With that said here is another one:
 ```
 
-## [Keystone, "the most powerful hardware wallet"](https://shop.keyst.one/?rfsn=6991939.6a0d16&utm_source=refersion&utm_medium=affiliate&utm_campaign=6991939.6a0d16)
+## [Keystone](https://shop.keyst.one/?rfsn=6991939.6a0d16&utm_source=refersion&utm_medium=affiliate&utm_campaign=6991939.6a0d16)
 
 <img alt="seed phrase storge image" src="https://user-images.githubusercontent.com/104662990/204606120-a263cb00-0fc9-4167-ae8d-a227ed990028.png">
 
-I am a little suprised by this one, because Keystone makes some really nice hardware wallets, as you will see below. 
+I am a little suprised by this one, because Keystone makes some really nice hardware wallets, as you will see in the Top Hardware Crypto Wallets section a little further down in the article. 
 
-Are there any others like my top pick Stamp Seed? 
+You might be asking are there any others like my top pick Stamp Seed? 
 
-## NGRAVE 
+~~~yml
+There is, and I would love to show you this one, because:
+~~~
 
+## 🏆 NGRAVE 
+
+<img alt="seed phrase storge image" src="https://user-images.githubusercontent.com/104662990/204842379-07c100a7-9ab6-4662-933d-c3d14e682a1c.png">
+
+NGRAVE offers an interesting storage solution, GRAPHENE. 
+- GRAPHENE uses base 16 hexadecimal representation, if you are not sure what that means hopefully this table below will help to explain it.
+
+## Base 16 Hexadecimal System - 1 byte = (8 bits) - 32 bytes = (256 bits)
+| 4 bit Binary Sequence | Hex Representation |
+| --- | --- |
+| 0000 | 0 |
+| 0001 | 1 |
+| 0010 | 2 |
+| 0011 | 3 |
+| 0100 | 4 |
+| 0101 | 5 |
+| 0110 | 6 |
+| 0111 | 7 |
+| 1000 | 8 |
+| 1001 | 9 |
+| 1010 | A |
+| 1011 | B |
+| 1100 | C |
+| 1101 | D |
+| 1110 | E |
+| 1111 | F |
+
+- NGRAVE GRAPHENE uses 64 characters in hex format described above,
+
+This [video](https://www.youtube.com/embed/yrnRy6eXupI) shows exactly how GRAPHENE works.
 
 ## Top Hardware Crypto Wallets
 
