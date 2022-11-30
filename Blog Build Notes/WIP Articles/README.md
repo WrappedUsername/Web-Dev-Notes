@@ -131,7 +131,7 @@ You might be asking are there any others like my top pick Stamp Seed?
 There is, and I would love to show you this one, because:
 ~~~
 
-## 🏆 NGRAVE 
+## 🏆 [NGRAVE](https://www.ngrave.io/?sca_ref=2945485.Lc4ChLMtgq)
 
 <img alt="seed phrase storge image" src="https://user-images.githubusercontent.com/104662990/204842379-07c100a7-9ab6-4662-933d-c3d14e682a1c.png">
 
@@ -252,9 +252,9 @@ The levels are as follows:
 
 - EAL7: Formally Verified Design and Tested. Applies to the development of security targets of evaluation for application in extremely high-risk situations, as well as when the high value of the assets justifies the higher costs.
 
-## 🏆 NGRAVE, "eternally yours"
+## 🏆 [NGRAVE](https://www.ngrave.io/?sca_ref=2945485.Lc4ChLMtgq), "eternally yours"
 
-<img alt="hardware wallet image" src="https://user-images.githubusercontent.com/104662990/204116663-bd3f6077-dcf0-4dd4-82ec-db35978fcbba.png">
+<img alt='zero ad banner' src='https://cdn.uppromote.com/storage/uploads/banner/ngrave-io/01fc257580bf1a3d8eabd78a42d398f9_728x90-5.png' />
 
 With the NGRAVE ZERO you create your keys and sign transactions with a fully offline device, you get state of the art security with an inuitive interface, to me that is extremly important, because if it is too difficult to use, I won't want to learn how to use it, I am busy like everyone else! I don't have time to learn all that.
 
@@ -263,6 +263,7 @@ Plus simple and easy will always be more secure, because there are less mistakes
 ```yml
 Common Criteria EAL7:
 ```
+
 - Highest level of security in the blockchain & financial industry, this is a true claim
 - Impenetrable by design, anti-tampering protection against physical attacks
 - Biometric & light sensor, enhanced security by light, fingerprint & QR scanning
@@ -282,7 +283,23 @@ Combine the ZERO with the GRAPHENE and you have the the most GigaChad crypto sto
 
 <img alt="arculus wallet image" src="https://user-images.githubusercontent.com/104662990/204362256-7668e82e-d321-40d6-b18b-615ee9fd87db.png">
 
-- EAL6+
+Arculus Key Card
+- EAL6
+- NFC (Near Field Communication) technology
+
+## 🏆 [CoolWallet](https://www.coolwallet.io/coolwallet_pro/?ref=keefeoverby), "a new kind of hardware wallet"
+
+<a href="https://www.coolwallet.io/coolerwithcoolwallet-challenges-run2/?ref=keefeoverby&utm_source=tapfiliate&utm_medium=referral&utm_campaign=assets&utm_term=cw_challenge-2&tap_a=121441-ad252c" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/637762cf5303c895957938.jpeg?a=121441-ad252c&s=3267988-b08949" border="0"></a>
+
+The next few wallets uses NFC.
+
+CoolWallet Pro
+- EAL6
+- NFC (Near Field Communication) technology
+
+CoolWallet S
+- EAL5
+- NFC (Near Field Communication) technology
 
 ## 🏆 [Keystone, "the most powerful hardware wallet"](https://shop.keyst.one/?rfsn=6991939.6a0d16&utm_source=refersion&utm_medium=affiliate&utm_campaign=6991939.6a0d16)
 
@@ -290,7 +307,7 @@ Combine the ZERO with the GRAPHENE and you have the the most GigaChad crypto sto
 
 Keystone pioneered the industry's first open source hardware wallet project. All of their hardware and firmware designs are open sourced and available online.
 
-- EAL5+ Secure Element and Open Source
+- EAL5 Secure Element and Open Source
 - A proprietary bank-grade secure element which generates fully random numbers, ensuring your crypto assets are stored in a secured way.
 - Shamir Backup
   - Keystone supports SLIP39, it enables you to create a Shamir Backup for your recovery phrase.
@@ -315,8 +332,6 @@ It's nice to know there are hardware wallets with that much security, but that d
 ```yml
 There are a lot of new amazing wallets that are extremely capable, secure, and feature rich, and they are:
 ```
-
-## CoolWallet, "a new kind of hardware wallet"
 
 TODO
 
