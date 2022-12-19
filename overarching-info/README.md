@@ -1,3 +1,9 @@
+# Overarching concepts of how the computer, network, and languages etc. interact
+
+```yml
+The OSI model and languages:
+```
+
 # 🤖 ChatGPT reply
 
 Yes, there are programming languages that are used at lower layers of the OSI model than the Presentation layer (layer 6).
