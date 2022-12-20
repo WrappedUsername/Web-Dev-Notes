@@ -9,7 +9,7 @@ Yes, there are programming languages that are used at lower layers of the OSI mo
 The OSI model divides the process of communication into seven layers, with each layer representing a different aspect of communication and having specific responsibilities. 
 
 ```yml
-The layers of the OSI model, starting from the lowest layer, are:
+The layers of the OSI model, starting from the highest layer, are:
 ```
 
 | OSI Layer | Description | Layer level |
